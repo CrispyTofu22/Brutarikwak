@@ -1,0 +1,129 @@
+[
+  {
+    "nom": "Brutalibré",
+    "numero": "063/111",
+    "set": "XY - Poing Furieux",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/063.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré EX",
+    "numero": "064/111",
+    "set": "XY - Poing Furieux",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/064.png",
+    "rarete": "EX",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "097/114",
+    "set": "XY - Offensive Vapeur",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/097.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "110/181",
+    "set": "Soleil & Lune - Duo de Choc",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/110.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "105/185",
+    "set": "Épée & Bouclier - Voltage Éclatant",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/105.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "116/198",
+    "set": "Épée & Bouclier - Règne de Glace",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/116.png",
+    "rarete": "Peu Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "125/198",
+    "set": "Écarlate & Violet",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/125.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "071/091",
+    "set": "Écarlate & Violet - Destinées de Paldea",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/071.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré (Shiny)",
+    "numero": "192/091",
+    "set": "Écarlate & Violet - Destinées de Paldea",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/192.png",
+    "rarete": "Illustration rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "116/162",
+    "set": "Écarlate & Violet - Forces Temporelles",
+    "langue": "FR",
+    "image": "/cards/pokemon/brutalibre/116_ir.png",
+    "rarete": "Illustration rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  }
+]

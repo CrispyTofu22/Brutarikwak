@@ -1,0 +1,1834 @@
+[
+  {
+    "nom": "Aspicot",
+    "numero": "001/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/001/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409942
+  },
+  {
+    "nom": "Coconfort",
+    "numero": "002/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/002/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409945
+  },
+  {
+    "nom": "Dardargnan-ex",
+    "numero": "003/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/003/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202409944
+  },
+  {
+    "nom": "Vortente",
+    "numero": "004/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/004/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409945
+  },
+  {
+    "nom": "Marisson",
+    "numero": "005/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/005/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409948
+  },
+  {
+    "nom": "Boguérisse",
+    "numero": "006/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/006/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409951
+  },
+  {
+    "nom": "Blindépique",
+    "numero": "007/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/007/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202409946
+  },
+  {
+    "nom": "Goupix",
+    "numero": "008/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/008/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409949
+  },
+  {
+    "nom": "Feunard",
+    "numero": "009/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/009/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409945
+  },
+  {
+    "nom": "Ho-Oh",
+    "numero": "010/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/010/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202409944
+  },
+  {
+    "nom": "Feunnec",
+    "numero": "011/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/011/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409946
+  },
+  {
+    "nom": "Roussil",
+    "numero": "012/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/012/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409947
+  },
+  {
+    "nom": "Goupelin",
+    "numero": "013/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/013/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "normale",
+      "holo"
+    ],
+    "possede": {
+      "normale": false,
+      "holo": false
+    },
+    "createdAt": 1784202409947
+  },
+  {
+    "nom": "Hélionceau",
+    "numero": "014/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/014/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409948
+  },
+  {
+    "nom": "Méga-Némélios-ex",
+    "numero": "015/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/015/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202409950
+  },
+  {
+    "nom": "Rémoraid",
+    "numero": "016/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/016/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409947
+  },
+  {
+    "nom": "Octillery",
+    "numero": "017/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/017/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409943
+  },
+  {
+    "nom": "Cadoizo",
+    "numero": "018/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/018/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409949
+  },
+  {
+    "nom": "Keldeo",
+    "numero": "019/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/019/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202409949
+  },
+  {
+    "nom": "Grenousse",
+    "numero": "020/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/020/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409950
+  },
+  {
+    "nom": "Croâporal",
+    "numero": "021/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/021/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409949
+  },
+  {
+    "nom": "Méga-Amphinobi-ex",
+    "numero": "022/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/022/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202409951
+  },
+  {
+    "nom": "Grelaçon",
+    "numero": "023/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/023/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409950
+  },
+  {
+    "nom": "Séracrawl",
+    "numero": "024/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/024/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409951
+  },
+  {
+    "nom": "Sovkipou",
+    "numero": "025/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/025/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409951
+  },
+  {
+    "nom": "Sarmuraï",
+    "numero": "026/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/026/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409953
+  },
+  {
+    "nom": "Wattouat",
+    "numero": "027/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/027/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409948
+  },
+  {
+    "nom": "Lainergie",
+    "numero": "028/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/028/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409952
+  },
+  {
+    "nom": "Pharamp",
+    "numero": "029/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/029/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409953
+  },
+  {
+    "nom": "Emolga",
+    "numero": "030/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/030/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409952
+  },
+  {
+    "nom": "Deoxys",
+    "numero": "031/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/031/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410067
+  },
+  {
+    "nom": "Deoxys",
+    "numero": "032/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/032/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410071
+  },
+  {
+    "nom": "Deoxys",
+    "numero": "033/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/033/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410068
+  },
+  {
+    "nom": "Deoxys",
+    "numero": "034/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/034/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410072
+  },
+  {
+    "nom": "Méga-Floette-ex",
+    "numero": "035/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/035/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410074
+  },
+  {
+    "nom": "Psystigri",
+    "numero": "036/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/036/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410069
+  },
+  {
+    "nom": "Mistigrix",
+    "numero": "037/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/037/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410069
+  },
+  {
+    "nom": "Brocélôme",
+    "numero": "038/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/038/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410068
+  },
+  {
+    "nom": "Desséliande",
+    "numero": "039/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/039/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410071
+  },
+  {
+    "nom": "Pitrouille",
+    "numero": "040/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/040/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410068
+  },
+  {
+    "nom": "Banshitrouye-ex",
+    "numero": "041/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/041/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410073
+  },
+  {
+    "nom": "Xerneas",
+    "numero": "042/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/042/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410073
+  },
+  {
+    "nom": "Simularbre",
+    "numero": "043/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/043/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410070
+  },
+  {
+    "nom": "Phanpy",
+    "numero": "044/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/044/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410068
+  },
+  {
+    "nom": "Donphan",
+    "numero": "045/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/045/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410071
+  },
+  {
+    "nom": "Balbuto",
+    "numero": "046/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/046/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410074
+  },
+  {
+    "nom": "Kaorine",
+    "numero": "047/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/047/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410070
+  },
+  {
+    "nom": "Méga-Gallame-ex",
+    "numero": "048/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/048/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410074
+  },
+  {
+    "nom": "Nosferapti",
+    "numero": "049/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/049/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410072
+  },
+  {
+    "nom": "Nosferalto",
+    "numero": "050/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/050/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410075
+  },
+  {
+    "nom": "Nostenfer",
+    "numero": "051/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/051/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410073
+  },
+  {
+    "nom": "Qwilfish",
+    "numero": "052/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/052/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410074
+  },
+  {
+    "nom": "Moufouette",
+    "numero": "053/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/053/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410075
+  },
+  {
+    "nom": "Moufflair",
+    "numero": "054/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/054/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410070
+  },
+  {
+    "nom": "Crocorible-ex",
+    "numero": "055/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/055/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410075
+  },
+  {
+    "nom": "Miamiasme",
+    "numero": "056/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/056/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410075
+  },
+  {
+    "nom": "Miasmax",
+    "numero": "057/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/057/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410073
+  },
+  {
+    "nom": "Venalgue",
+    "numero": "058/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/058/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410073
+  },
+  {
+    "nom": "Terhal",
+    "numero": "059/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/059/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410074
+  },
+  {
+    "nom": "Métang",
+    "numero": "060/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/060/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410071
+  },
+  {
+    "nom": "Métalosse",
+    "numero": "061/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/061/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410199
+  },
+  {
+    "nom": "Grindur",
+    "numero": "062/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/062/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410209
+  },
+  {
+    "nom": "Noacier",
+    "numero": "063/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/063/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410206
+  },
+  {
+    "nom": "Cobaltium-ex",
+    "numero": "064/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/064/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410197
+  },
+  {
+    "nom": "Méga-Kravarech-ex",
+    "numero": "065/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/065/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410204
+  },
+  {
+    "nom": "Mucuscule",
+    "numero": "066/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/066/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410210
+  },
+  {
+    "nom": "Colimucus",
+    "numero": "067/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/067/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410207
+  },
+  {
+    "nom": "Muplodocus",
+    "numero": "068/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/068/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410195
+  },
+  {
+    "nom": "Tauros",
+    "numero": "069/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/069/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410205
+  },
+  {
+    "nom": "Ratentif",
+    "numero": "070/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/070/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410204
+  },
+  {
+    "nom": "Miradar",
+    "numero": "071/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/071/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410209
+  },
+  {
+    "nom": "Chinchidou",
+    "numero": "072/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/072/low.png",
+    "rarete": "Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410194
+  },
+  {
+    "nom": "Pashmilla-ex",
+    "numero": "073/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/073/low.png",
+    "rarete": "Double rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410207
+  },
+  {
+    "nom": "Assurance Adversité",
+    "numero": "074/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/074/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410203
+  },
+  {
+    "nom": "Ange Floette",
+    "numero": "075/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/075/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410196
+  },
+  {
+    "nom": "Tranquillité d'A.Z.",
+    "numero": "076/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/076/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410206
+  },
+  {
+    "nom": "Millie",
+    "numero": "077/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/077/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410212
+  },
+  {
+    "nom": "Filet Grande Prise",
+    "numero": "078/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/078/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410214
+  },
+  {
+    "nom": "Gypso",
+    "numero": "079/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/079/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410209
+  },
+  {
+    "nom": "Tour Prismatique",
+    "numero": "080/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/080/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410214
+  },
+  {
+    "nom": "Performance de Strykna",
+    "numero": "081/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/081/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410200
+  },
+  {
+    "nom": "Carton Rouge Spécial",
+    "numero": "082/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/082/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410196
+  },
+  {
+    "nom": "Tome de Transformation",
+    "numero": "083/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/083/low.png",
+    "rarete": "Peu Commune",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410203
+  },
+  {
+    "nom": "Énergie Water Pétillante",
+    "numero": "084/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/084/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410208
+  },
+  {
+    "nom": "Énergie Metal Magnétique",
+    "numero": "085/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/085/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410205
+  },
+  {
+    "nom": "Énergie Fire Nitro",
+    "numero": "086/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/086/low.png",
+    "rarete": "Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410210
+  },
+  {
+    "nom": "Marisson",
+    "numero": "087/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/087/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410206
+  },
+  {
+    "nom": "Grenousse",
+    "numero": "088/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/088/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410204
+  },
+  {
+    "nom": "Croâporal",
+    "numero": "089/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/089/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410206
+  },
+  {
+    "nom": "Pharamp",
+    "numero": "090/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/090/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410195
+  },
+  {
+    "nom": "Xerneas",
+    "numero": "091/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/091/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410339
+  },
+  {
+    "nom": "Kaorine",
+    "numero": "092/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/092/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410342
+  },
+  {
+    "nom": "Nostenfer",
+    "numero": "093/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/093/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410342
+  },
+  {
+    "nom": "Métang",
+    "numero": "094/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/094/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410337
+  },
+  {
+    "nom": "Colimucus",
+    "numero": "095/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/095/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410343
+  },
+  {
+    "nom": "Tauros",
+    "numero": "096/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/096/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410340
+  },
+  {
+    "nom": "Miradar",
+    "numero": "097/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/097/low.png",
+    "rarete": "Illustration rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410343
+  },
+  {
+    "nom": "Dardargnan-ex",
+    "numero": "098/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/098/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410341
+  },
+  {
+    "nom": "Méga-Némélios-ex",
+    "numero": "099/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/099/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410340
+  },
+  {
+    "nom": "Méga-Amphinobi-ex",
+    "numero": "100/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/100/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410342
+  },
+  {
+    "nom": "Méga-Floette-ex",
+    "numero": "101/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/101/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410338
+  },
+  {
+    "nom": "Banshitrouye-ex",
+    "numero": "102/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/102/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410339
+  },
+  {
+    "nom": "Cobaltium-ex",
+    "numero": "103/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/103/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410340
+  },
+  {
+    "nom": "Méga-Kravarech-ex",
+    "numero": "104/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/104/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410341
+  },
+  {
+    "nom": "Pashmilla-ex",
+    "numero": "105/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/105/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410342
+  },
+  {
+    "nom": "Tranquillité d'A.Z.",
+    "numero": "106/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/106/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410338
+  },
+  {
+    "nom": "Millie",
+    "numero": "107/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/107/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410338
+  },
+  {
+    "nom": "Récupération d'Énergie",
+    "numero": "108/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/108/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410339
+  },
+  {
+    "nom": "Glace Géante",
+    "numero": "109/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/109/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410337
+  },
+  {
+    "nom": "Gypso",
+    "numero": "110/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/110/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410341
+  },
+  {
+    "nom": "Tour Prismatique",
+    "numero": "111/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/111/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410343
+  },
+  {
+    "nom": "Performance de Strykna",
+    "numero": "112/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/112/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410341
+  },
+  {
+    "nom": "Carton Rouge Spécial",
+    "numero": "113/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/113/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410340
+  },
+  {
+    "nom": "Plage de Surf",
+    "numero": "114/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/114/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410336
+  },
+  {
+    "nom": "Arrache-Outil",
+    "numero": "115/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/115/low.png",
+    "rarete": "Ultra Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410339
+  },
+  {
+    "nom": "Méga-Amphinobi-ex",
+    "numero": "116/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/116/low.png",
+    "rarete": "Illustration spéciale rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410343
+  },
+  {
+    "nom": "Méga-Floette-ex",
+    "numero": "117/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/117/low.png",
+    "rarete": "Illustration spéciale rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410337
+  },
+  {
+    "nom": "Méga-Kravarech-ex",
+    "numero": "118/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/118/low.png",
+    "rarete": "Illustration spéciale rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410341
+  },
+  {
+    "nom": "Pashmilla-ex",
+    "numero": "119/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/119/low.png",
+    "rarete": "Illustration spéciale rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410342
+  },
+  {
+    "nom": "Tranquillité d'A.Z.",
+    "numero": "120/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/120/low.png",
+    "rarete": "Illustration spéciale rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410340
+  },
+  {
+    "nom": "Performance de Strykna",
+    "numero": "121/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/121/low.png",
+    "rarete": "Illustration spéciale rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410457
+  },
+  {
+    "nom": "Méga-Amphinobi-ex",
+    "numero": "122/86",
+    "set": "Chaos Ascendant",
+    "langue": "FR",
+    "image": "https://assets.tcgdex.net/fr/me/me04/122/low.png",
+    "rarete": "Méga Hyper Rare",
+    "variantes": [
+      "holo"
+    ],
+    "possede": {
+      "holo": false
+    },
+    "createdAt": 1784202410508
+  }
+]

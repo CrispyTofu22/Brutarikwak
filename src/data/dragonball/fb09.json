@@ -1,0 +1,2626 @@
+[
+  {
+    "nom": "Gogeta : BR",
+    "numero": "FB09-001",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-001_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391490
+  },
+  {
+    "nom": "Gogeta : BR (Alt)",
+    "numero": "FB09-001_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-001_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391233
+  },
+  {
+    "nom": "Gogeta : BR (Alt)",
+    "numero": "FB09-001_p2",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-001_f_p2.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391241
+  },
+  {
+    "nom": "Dr. Arinsu : DA",
+    "numero": "FB09-002",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-002.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391259
+  },
+  {
+    "nom": "Whis : BR",
+    "numero": "FB09-003",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-003.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391238
+  },
+  {
+    "nom": "Glorio : DA",
+    "numero": "FB09-004",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-004.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391220
+  },
+  {
+    "nom": "Golden Frieza : BR",
+    "numero": "FB09-005",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-005.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391272
+  },
+  {
+    "nom": "Golden Frieza : BR (Alt)",
+    "numero": "FB09-005_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-005_p1.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391979
+  },
+  {
+    "nom": "Gogeta : BR",
+    "numero": "FB09-006",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-006.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391737
+  },
+  {
+    "nom": "Gogeta : BR",
+    "numero": "FB09-007",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-007.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391976
+  },
+  {
+    "nom": "Gogeta : BR (Alt)",
+    "numero": "FB09-007_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-007_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391977
+  },
+  {
+    "nom": "Son Goku : BR",
+    "numero": "FB09-008",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-008.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391823
+  },
+  {
+    "nom": "Son Goku : BR",
+    "numero": "FB09-009",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-009.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202391763
+  },
+  {
+    "nom": "Son Goku : BR",
+    "numero": "FB09-010",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-010.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202392413
+  },
+  {
+    "nom": "Son Goku : BR/Vegeta : BR",
+    "numero": "FB09-011",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-011.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202392017
+  },
+  {
+    "nom": "Son Goku : BR/Vegeta : BR (Alt)",
+    "numero": "FB09-011_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-011_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393527
+  },
+  {
+    "nom": "Cheelai : BR",
+    "numero": "FB09-012",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-012.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393327
+  },
+  {
+    "nom": "Cheelai : BR (Alt)",
+    "numero": "FB09-012_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-012_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393331
+  },
+  {
+    "nom": "Piccolo : BR",
+    "numero": "FB09-013",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-013.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393353
+  },
+  {
+    "nom": "Piccolo : BR (Alt)",
+    "numero": "FB09-013_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-013_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393409
+  },
+  {
+    "nom": "Bulma : BR",
+    "numero": "FB09-014",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-014.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393346
+  },
+  {
+    "nom": "Broly : BR",
+    "numero": "FB09-015",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-015.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202394369
+  },
+  {
+    "nom": "Veku : BR",
+    "numero": "FB09-016",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-016.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393393
+  },
+  {
+    "nom": "Veku : BR",
+    "numero": "FB09-017",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-017.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393369
+  },
+  {
+    "nom": "Vegeta : BR",
+    "numero": "FB09-018",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-018.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393361
+  },
+  {
+    "nom": "Vegeta : BR",
+    "numero": "FB09-019",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-019.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393548
+  },
+  {
+    "nom": "Vegeta : BR",
+    "numero": "FB09-020",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-020.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393370
+  },
+  {
+    "nom": "Vegeta : DA",
+    "numero": "FB09-021",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-021.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393531
+  },
+  {
+    "nom": "Lemo : BR",
+    "numero": "FB09-022",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-022.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393361
+  },
+  {
+    "nom": "Torrent of Light",
+    "numero": "FB09-023",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-023.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202393527
+  },
+  {
+    "nom": "Fusion Mastery",
+    "numero": "FB09-024",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-024.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395318
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-025",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-025_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395322
+  },
+  {
+    "nom": "Son Goku (Alt)",
+    "numero": "FB09-025_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-025_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395954
+  },
+  {
+    "nom": "Son Goku (Alt)",
+    "numero": "FB09-025_p2",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-025_f_p2.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202396535
+  },
+  {
+    "nom": "Caulifla",
+    "numero": "FB09-026",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-026.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395260
+  },
+  {
+    "nom": "Kefla",
+    "numero": "FB09-027",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-027.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395336
+  },
+  {
+    "nom": "Android 17",
+    "numero": "FB09-028",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-028.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202396377
+  },
+  {
+    "nom": "Android 17",
+    "numero": "FB09-029",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-029.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202396308
+  },
+  {
+    "nom": "Android 17 (Alt)",
+    "numero": "FB09-029_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-029_p1.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395330
+  },
+  {
+    "nom": "Zen-Oh",
+    "numero": "FB09-030",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-030.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395325
+  },
+  {
+    "nom": "Zen-Oh",
+    "numero": "FB09-031",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-031.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395549
+  },
+  {
+    "nom": "Zen-Oh (Alt)",
+    "numero": "FB09-031_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-031_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202396587
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-032",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-032.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395303
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-033",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-033.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395325
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-034",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-034.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202395548
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-035",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-035.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397555
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-036",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-036.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397588
+  },
+  {
+    "nom": "Son Goku (Alt)",
+    "numero": "FB09-036_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-036_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397554
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-037",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-037.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397566
+  },
+  {
+    "nom": "Son Goku (Alt)",
+    "numero": "FB09-037_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-037_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397547
+  },
+  {
+    "nom": "Great Priest",
+    "numero": "FB09-038",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-038.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397550
+  },
+  {
+    "nom": "Hit",
+    "numero": "FB09-039",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-039.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397543
+  },
+  {
+    "nom": "Frieza",
+    "numero": "FB09-040",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-040.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397549
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB09-041",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-041.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397537
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB09-042",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-042.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397557
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB09-043",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-043.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397489
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB09-044",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-044.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397543
+  },
+  {
+    "nom": "Vegeta (Alt)",
+    "numero": "FB09-044_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-044_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397515
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB09-045",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-045.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397550
+  },
+  {
+    "nom": "Vegeta (Alt)",
+    "numero": "FB09-045_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-045_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202397520
+  },
+  {
+    "nom": "Vegito",
+    "numero": "FB09-046",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-046.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398939
+  },
+  {
+    "nom": "Divine Domain",
+    "numero": "FB09-047",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-047.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398723
+  },
+  {
+    "nom": "A Pride Entrusted",
+    "numero": "FB09-048",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-048.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398729
+  },
+  {
+    "nom": "Son Gohan : SH",
+    "numero": "FB09-049",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-049_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202400024
+  },
+  {
+    "nom": "Son Gohan : SH (Alt)",
+    "numero": "FB09-049_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-049_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398925
+  },
+  {
+    "nom": "Gamma 1 : SH",
+    "numero": "FB09-050",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-050.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202399756
+  },
+  {
+    "nom": "Gamma 1 : SH/Gamma 2 : SH",
+    "numero": "FB09-051",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-051.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398988
+  },
+  {
+    "nom": "Gamma 1 : SH/Gamma 2 : SH (Alt)",
+    "numero": "FB09-051_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-051_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398755
+  },
+  {
+    "nom": "Gamma 2 : SH",
+    "numero": "FB09-052",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-052.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202399736
+  },
+  {
+    "nom": "Krillin : SH",
+    "numero": "FB09-053",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-053.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398714
+  },
+  {
+    "nom": "Kefla",
+    "numero": "FB09-054",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-054.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398725
+  },
+  {
+    "nom": "Gotenks : SH",
+    "numero": "FB09-055",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-055.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202399723
+  },
+  {
+    "nom": "Gotenks : SH (Alt)",
+    "numero": "FB09-055_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-055_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398923
+  },
+  {
+    "nom": "Android 18 : SH",
+    "numero": "FB09-056",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-056.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202398971
+  },
+  {
+    "nom": "Son Goten : SH",
+    "numero": "FB09-057",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-057.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202400821
+  },
+  {
+    "nom": "Son Gohan : SH",
+    "numero": "FB09-058",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-058.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402828
+  },
+  {
+    "nom": "Son Gohan : SH",
+    "numero": "FB09-059",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-059.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402843
+  },
+  {
+    "nom": "Son Gohan : SH",
+    "numero": "FB09-060",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-060.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402823
+  },
+  {
+    "nom": "Son Gohan : SH (Alt)",
+    "numero": "FB09-060_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-060_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402818
+  },
+  {
+    "nom": "Dr. Hedo : SH",
+    "numero": "FB09-061",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-061.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402771
+  },
+  {
+    "nom": "Trunks : SH",
+    "numero": "FB09-062",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-062.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402821
+  },
+  {
+    "nom": "Pan : SH",
+    "numero": "FB09-063",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-063.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402791
+  },
+  {
+    "nom": "Pan : SH",
+    "numero": "FB09-064",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-064.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402822
+  },
+  {
+    "nom": "Pan : SH (Alt)",
+    "numero": "FB09-064_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-064_p1.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402818
+  },
+  {
+    "nom": "Videl : SH",
+    "numero": "FB09-065",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-065.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402861
+  },
+  {
+    "nom": "Piccolo : SH",
+    "numero": "FB09-066",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-066.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402839
+  },
+  {
+    "nom": "Piccolo : SH",
+    "numero": "FB09-067",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-067.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402801
+  },
+  {
+    "nom": "Piccolo : SH",
+    "numero": "FB09-068",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-068.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402868
+  },
+  {
+    "nom": "Piccolo : SH (Alt)",
+    "numero": "FB09-068_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-068_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402771
+  },
+  {
+    "nom": "Broly",
+    "numero": "FB09-069",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-069.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202402747
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB09-070",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-070.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202404132
+  },
+  {
+    "nom": "Shenron&amp;#039;s Extra",
+    "numero": "FB09-071",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-071.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403838
+  },
+  {
+    "nom": "Special Beam Cannon",
+    "numero": "FB09-072",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-072.webp",
+    "rarete": "Super Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403848
+  },
+  {
+    "nom": "Special Beam Cannon (Alt)",
+    "numero": "FB09-072_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-072_p1.webp",
+    "rarete": "Super Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202404539
+  },
+  {
+    "nom": "Son Goku/Vegeta",
+    "numero": "FB09-073",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-073_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403860
+  },
+  {
+    "nom": "Son Goku/Vegeta (Alt)",
+    "numero": "FB09-073_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-073_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202404076
+  },
+  {
+    "nom": "North Kai",
+    "numero": "FB09-074",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-074.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403917
+  },
+  {
+    "nom": "Gotenks",
+    "numero": "FB09-075",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-075.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403822
+  },
+  {
+    "nom": "Saike Demon",
+    "numero": "FB09-076",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-076.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403811
+  },
+  {
+    "nom": "Janemba",
+    "numero": "FB09-077",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-077.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403833
+  },
+  {
+    "nom": "Janemba",
+    "numero": "FB09-078",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-078.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202404327
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-079",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-079.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403815
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-080",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-080.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403835
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB09-081",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-081.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403805
+  },
+  {
+    "nom": "Son Goku/Vegeta",
+    "numero": "FB09-082",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-082.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202403867
+  },
+  {
+    "nom": "Son Goku/Vegeta (Alt)",
+    "numero": "FB09-082_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-082_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405744
+  },
+  {
+    "nom": "Son Goten",
+    "numero": "FB09-083",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-083.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405492
+  },
+  {
+    "nom": "Son Gohan : Adolescence",
+    "numero": "FB09-084",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-084.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405499
+  },
+  {
+    "nom": "Grand Kai",
+    "numero": "FB09-085",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-085.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405520
+  },
+  {
+    "nom": "Trunks : Youth",
+    "numero": "FB09-086",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-086.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405737
+  },
+  {
+    "nom": "West Kai",
+    "numero": "FB09-087",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-087.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405503
+  },
+  {
+    "nom": "Paikuhan",
+    "numero": "FB09-088",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-088.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405501
+  },
+  {
+    "nom": "Paikuhan (Alt)",
+    "numero": "FB09-088_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-088_p1.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405486
+  },
+  {
+    "nom": "Paikuhan",
+    "numero": "FB09-089",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-089.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405507
+  },
+  {
+    "nom": "East Kai",
+    "numero": "FB09-090",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-090.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405681
+  },
+  {
+    "nom": "Veku",
+    "numero": "FB09-091",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-091.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405730
+  },
+  {
+    "nom": "Veku (Alt)",
+    "numero": "FB09-091_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-091_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405532
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB09-092",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-092.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405768
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB09-093",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-093.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405893
+  },
+  {
+    "nom": "Vegeta (Alt)",
+    "numero": "FB09-093_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-093_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202405919
+  },
+  {
+    "nom": "South Kai",
+    "numero": "FB09-094",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-094.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202407127
+  },
+  {
+    "nom": "Enma&amp;#039;s Palace",
+    "numero": "FB09-095",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-095.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406894
+  },
+  {
+    "nom": "Warrior Who Defeats the Evil Demon",
+    "numero": "FB09-096",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-096.webp",
+    "rarete": "Super Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406866
+  },
+  {
+    "nom": "Warrior Who Defeats the Evil Demon (Alt)",
+    "numero": "FB09-096_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-096_p1.webp",
+    "rarete": "Super Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202407114
+  },
+  {
+    "nom": "Gogeta : GT",
+    "numero": "FB09-097",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-097_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406867
+  },
+  {
+    "nom": "Gogeta : GT (Alt)",
+    "numero": "FB09-097_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-097_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406833
+  },
+  {
+    "nom": "Gotenks",
+    "numero": "FB09-098",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-098.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406901
+  },
+  {
+    "nom": "Son Goku : GT",
+    "numero": "FB09-099",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-099.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202407864
+  },
+  {
+    "nom": "Son Goku : GT",
+    "numero": "FB09-100",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-100.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406844
+  },
+  {
+    "nom": "Son Goku : GT (Alt)",
+    "numero": "FB09-100_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-100_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202407113
+  },
+  {
+    "nom": "Son Goten : GT",
+    "numero": "FB09-101",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-101.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202407839
+  },
+  {
+    "nom": "Son Goten : GT",
+    "numero": "FB09-102",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-102.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406887
+  },
+  {
+    "nom": "Son Gohan : GT",
+    "numero": "FB09-103",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-103.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406887
+  },
+  {
+    "nom": "Son Gohan : GT",
+    "numero": "FB09-104",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-104.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406875
+  },
+  {
+    "nom": "Son Gohan : GT",
+    "numero": "FB09-105",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-105.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202406879
+  },
+  {
+    "nom": "Son Gohan : GT (Alt)",
+    "numero": "FB09-105_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-105_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202409098
+  },
+  {
+    "nom": "Son Gohan : Future",
+    "numero": "FB09-106",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-106.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408810
+  },
+  {
+    "nom": "Chi-Chi : GT",
+    "numero": "FB09-107",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-107.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408824
+  },
+  {
+    "nom": "Trunks : GT",
+    "numero": "FB09-108",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-108.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408870
+  },
+  {
+    "nom": "Trunks : GT",
+    "numero": "FB09-109",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-109.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408861
+  },
+  {
+    "nom": "Trunks : GT",
+    "numero": "FB09-110",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-110.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408829
+  },
+  {
+    "nom": "Trunks : GT (Alt)",
+    "numero": "FB09-110_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-110_p1.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408825
+  },
+  {
+    "nom": "Trunks : Future",
+    "numero": "FB09-111",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-111.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408824
+  },
+  {
+    "nom": "Pan : GT",
+    "numero": "FB09-112",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-112.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408775
+  },
+  {
+    "nom": "Pan : GT (Alt)",
+    "numero": "FB09-112_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-112_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408804
+  },
+  {
+    "nom": "Videl : GT",
+    "numero": "FB09-113",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-113.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408743
+  },
+  {
+    "nom": "Bulla : GT",
+    "numero": "FB09-114",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-114.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408799
+  },
+  {
+    "nom": "Bulla : GT (Alt)",
+    "numero": "FB09-114_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-114_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408828
+  },
+  {
+    "nom": "Bulma : GT",
+    "numero": "FB09-115",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-115.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408804
+  },
+  {
+    "nom": "Vegeta : GT",
+    "numero": "FB09-116",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-116.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202408825
+  },
+  {
+    "nom": "Vegeta : GT",
+    "numero": "FB09-117",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-117.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410015
+  },
+  {
+    "nom": "Vegeta : GT (Alt)",
+    "numero": "FB09-117_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-117_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202411057
+  },
+  {
+    "nom": "Hercule : GT",
+    "numero": "FB09-118",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-118.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410011
+  },
+  {
+    "nom": "Pinnacle of Strength",
+    "numero": "FB09-119",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-119.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410257
+  },
+  {
+    "nom": "Big Bang Kamehameha",
+    "numero": "FB09-120",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-120.webp",
+    "rarete": "Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410060
+  },
+  {
+    "nom": "Gogeta : BR",
+    "numero": "FB09-121",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-121.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410046
+  },
+  {
+    "nom": "Gogeta : BR (Alt)",
+    "numero": "FB09-121_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-121_p1.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410049
+  },
+  {
+    "nom": "Gogeta : BR (Alt)",
+    "numero": "FB09-121_p2",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-121_p2.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410082
+  },
+  {
+    "nom": "Gogeta",
+    "numero": "FB09-122",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-122.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410066
+  },
+  {
+    "nom": "Gogeta (Alt)",
+    "numero": "FB09-122_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-122_p1.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410303
+  },
+  {
+    "nom": "Gogeta (Alt)",
+    "numero": "FB09-122_p2",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-122_p2.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410308
+  },
+  {
+    "nom": "Gogeta : GT",
+    "numero": "FB09-123",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-123.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410063
+  },
+  {
+    "nom": "Gogeta : GT (Alt)",
+    "numero": "FB09-123_p1",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-123_p1.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410076
+  },
+  {
+    "nom": "Gogeta : GT (Alt)",
+    "numero": "FB09-123_p2",
+    "set": "FB09 - Ultimate Fusion",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB09-123_p2.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202410070
+  }
+]

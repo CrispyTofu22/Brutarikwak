@@ -1,0 +1,6 @@
+{
+  "name": "Suivi de Collection TCG",
+  "description": "Application personnelle mobile-first de suivi de collection de cartes Pokémon et Dragon Ball.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

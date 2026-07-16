@@ -1,0 +1,2530 @@
+[
+  {
+    "nom": "Son Goku",
+    "numero": "FB04-001",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-001_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202372123
+  },
+  {
+    "nom": "Son Goku (Alt)",
+    "numero": "FB04-001_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-001_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202372062
+  },
+  {
+    "nom": "Whis",
+    "numero": "FB04-002",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-002.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371828
+  },
+  {
+    "nom": "Obuni",
+    "numero": "FB04-003",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-003.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371874
+  },
+  {
+    "nom": "Golden Frieza",
+    "numero": "FB04-004",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-004.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371910
+  },
+  {
+    "nom": "Shantza",
+    "numero": "FB04-005",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-005.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371885
+  },
+  {
+    "nom": "Jiren",
+    "numero": "FB04-006",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-006.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371893
+  },
+  {
+    "nom": "Shin",
+    "numero": "FB04-007",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-007.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371894
+  },
+  {
+    "nom": "Shin (Mini) : DA",
+    "numero": "FB04-008",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-008.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371814
+  },
+  {
+    "nom": "Android 17",
+    "numero": "FB04-009",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-009.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202372510
+  },
+  {
+    "nom": "Zen-Oh",
+    "numero": "FB04-010",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-010.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371827
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB04-011",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-011.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371897
+  },
+  {
+    "nom": "Son Goku (Mini) : DA",
+    "numero": "FB04-012",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-012.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371864
+  },
+  {
+    "nom": "Son Goku (Mini) : DA (Alt)",
+    "numero": "FB04-012_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-012_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371891
+  },
+  {
+    "nom": "Son Gohan : Adolescence",
+    "numero": "FB04-013",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-013.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202371853
+  },
+  {
+    "nom": "Great Priest",
+    "numero": "FB04-014",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-014.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373511
+  },
+  {
+    "nom": "Dyspo",
+    "numero": "FB04-015",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-015.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373672
+  },
+  {
+    "nom": "Toppo",
+    "numero": "FB04-016",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-016.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373492
+  },
+  {
+    "nom": "Beerus",
+    "numero": "FB04-017",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-017.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373497
+  },
+  {
+    "nom": "Frieza",
+    "numero": "FB04-018",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-018.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202375105
+  },
+  {
+    "nom": "Frieza (Alt)",
+    "numero": "FB04-018_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-018_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373699
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB04-019",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-019.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373524
+  },
+  {
+    "nom": "Bota Magetta",
+    "numero": "FB04-020",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-020.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373712
+  },
+  {
+    "nom": "Monna",
+    "numero": "FB04-021",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-021.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373747
+  },
+  {
+    "nom": "Extreme Ultra Instinct",
+    "numero": "FB04-022",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-022.webp",
+    "rarete": "Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373735
+  },
+  {
+    "nom": "Heat Aura",
+    "numero": "FB04-023",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-023.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202374453
+  },
+  {
+    "nom": "Arch-Enemies Team Up",
+    "numero": "FB04-024",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-024.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373721
+  },
+  {
+    "nom": "Inexhaustible Power",
+    "numero": "FB04-025",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-025.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373731
+  },
+  {
+    "nom": "Son Gohan : Adolescence",
+    "numero": "FB04-026",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-026_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373657
+  },
+  {
+    "nom": "Son Gohan : Adolescence (Alt)",
+    "numero": "FB04-026_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-026_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202373684
+  },
+  {
+    "nom": "Fortuneteller Baba",
+    "numero": "FB04-027",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-027.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376096
+  },
+  {
+    "nom": "Kibito",
+    "numero": "FB04-028",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-028.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376068
+  },
+  {
+    "nom": "Kibito Kai",
+    "numero": "FB04-029",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-029.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376054
+  },
+  {
+    "nom": "Great Saiyaman 2",
+    "numero": "FB04-030",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-030.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376064
+  },
+  {
+    "nom": "Gotenks",
+    "numero": "FB04-031",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-031.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376080
+  },
+  {
+    "nom": "Gotenks",
+    "numero": "FB04-032",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-032.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376068
+  },
+  {
+    "nom": "Gotenks",
+    "numero": "FB04-033",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-033.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376053
+  },
+  {
+    "nom": "Gotenks (Alt)",
+    "numero": "FB04-033_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-033_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376081
+  },
+  {
+    "nom": "Shin",
+    "numero": "FB04-034",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-034.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376053
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB04-035",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-035.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376073
+  },
+  {
+    "nom": "Son Goten",
+    "numero": "FB04-036",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-036.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376065
+  },
+  {
+    "nom": "Son Gohan : Adolescence",
+    "numero": "FB04-037",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-037.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202377248
+  },
+  {
+    "nom": "Son Gohan : Adolescence",
+    "numero": "FB04-038",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-038.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376064
+  },
+  {
+    "nom": "Tien Shinhan",
+    "numero": "FB04-039",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-039.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376072
+  },
+  {
+    "nom": "Trunks : Youth",
+    "numero": "FB04-040",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-040.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202376088
+  },
+  {
+    "nom": "Videl",
+    "numero": "FB04-041",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-041.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378208
+  },
+  {
+    "nom": "Piccolo",
+    "numero": "FB04-042",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-042.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378180
+  },
+  {
+    "nom": "Bulma (Mini) : DA",
+    "numero": "FB04-043",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-043.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202379161
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB04-044",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-044.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378188
+  },
+  {
+    "nom": "Vegeta (Mini) : DA",
+    "numero": "FB04-045",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-045.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378420
+  },
+  {
+    "nom": "Vegeta (Mini) : DA (Alt)",
+    "numero": "FB04-045_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-045_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378434
+  },
+  {
+    "nom": "Vegito",
+    "numero": "FB04-046",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-046.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378168
+  },
+  {
+    "nom": "Overwhelming Confidence",
+    "numero": "FB04-047",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-047.webp",
+    "rarete": "Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202379430
+  },
+  {
+    "nom": "Galactic Donut",
+    "numero": "FB04-048",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-048.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378155
+  },
+  {
+    "nom": "Amazing Hidden Potential",
+    "numero": "FB04-049",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-049.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378181
+  },
+  {
+    "nom": "Legend of the Strongest Sword",
+    "numero": "FB04-050",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-050.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378392
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB04-051",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-051_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378170
+  },
+  {
+    "nom": "Vegeta (Alt)",
+    "numero": "FB04-051_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-051_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202379421
+  },
+  {
+    "nom": "Great Ape Vegeta",
+    "numero": "FB04-052",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-052.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378205
+  },
+  {
+    "nom": "Great Ape Vegeta (Alt)",
+    "numero": "FB04-052_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-052_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202378410
+  },
+  {
+    "nom": "Kami",
+    "numero": "FB04-053",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-053.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380309
+  },
+  {
+    "nom": "Master Roshi",
+    "numero": "FB04-054",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-054.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380378
+  },
+  {
+    "nom": "Krillin",
+    "numero": "FB04-055",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-055.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380400
+  },
+  {
+    "nom": "Saibaiman",
+    "numero": "FB04-056",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-056.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380397
+  },
+  {
+    "nom": "Android 18",
+    "numero": "FB04-057",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-057.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380349
+  },
+  {
+    "nom": "Cell",
+    "numero": "FB04-058",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-058.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380418
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB04-059",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-059.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380370
+  },
+  {
+    "nom": "Son Goku (Alt)",
+    "numero": "FB04-059_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-059_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380413
+  },
+  {
+    "nom": "Son Gohan : Youth",
+    "numero": "FB04-060",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-060.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380388
+  },
+  {
+    "nom": "Turles",
+    "numero": "FB04-061",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-061.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380403
+  },
+  {
+    "nom": "Chiaotzu",
+    "numero": "FB04-062",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-062.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380407
+  },
+  {
+    "nom": "Tien Shinhan",
+    "numero": "FB04-063",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-063.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380384
+  },
+  {
+    "nom": "Nappa",
+    "numero": "FB04-064",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-064.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380396
+  },
+  {
+    "nom": "Nappa (Alt)",
+    "numero": "FB04-064_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-064_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380349
+  },
+  {
+    "nom": "Nappa",
+    "numero": "FB04-065",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-065.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202380658
+  },
+  {
+    "nom": "Piccolo",
+    "numero": "FB04-066",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-066.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381602
+  },
+  {
+    "nom": "Piccolo (Mini) : DA",
+    "numero": "FB04-067",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-067.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381558
+  },
+  {
+    "nom": "Bulma",
+    "numero": "FB04-068",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-068.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381616
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB04-069",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-069.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381624
+  },
+  {
+    "nom": "Yajirobe",
+    "numero": "FB04-070",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-070.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381598
+  },
+  {
+    "nom": "Yamcha",
+    "numero": "FB04-071",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-071.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381618
+  },
+  {
+    "nom": "Raditz",
+    "numero": "FB04-072",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-072.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381618
+  },
+  {
+    "nom": "A Warm Greeting",
+    "numero": "FB04-073",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-073.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381621
+  },
+  {
+    "nom": "Self-Destructing Saibaiman",
+    "numero": "FB04-074",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-074.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381607
+  },
+  {
+    "nom": "Invasion of the Saiyans",
+    "numero": "FB04-075",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-075.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381544
+  },
+  {
+    "nom": "Artificial Full Moon",
+    "numero": "FB04-076",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-076.webp",
+    "rarete": "Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381544
+  },
+  {
+    "nom": "Majin Buu : Evil",
+    "numero": "FB04-077",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-077_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381571
+  },
+  {
+    "nom": "Majin Buu : Evil (Alt)",
+    "numero": "FB04-077_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-077_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381569
+  },
+  {
+    "nom": "Idasa",
+    "numero": "FB04-078",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-078.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381598
+  },
+  {
+    "nom": "Shin",
+    "numero": "FB04-079",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-079.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202381614
+  },
+  {
+    "nom": "King Gomah : DA",
+    "numero": "FB04-080",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-080.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382618
+  },
+  {
+    "nom": "Cooler",
+    "numero": "FB04-081",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-081.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382587
+  },
+  {
+    "nom": "Dabura",
+    "numero": "FB04-082",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-082.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382556
+  },
+  {
+    "nom": "Grand Supreme Kai",
+    "numero": "FB04-083",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-083.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382628
+  },
+  {
+    "nom": "West Supreme Kai",
+    "numero": "FB04-084",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-084.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382588
+  },
+  {
+    "nom": "Babidi",
+    "numero": "FB04-085",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-085.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202383045
+  },
+  {
+    "nom": "Bibidi",
+    "numero": "FB04-086",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-086.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382626
+  },
+  {
+    "nom": "Bee",
+    "numero": "FB04-087",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-087.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382814
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB04-088",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-088.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382556
+  },
+  {
+    "nom": "Vegeta",
+    "numero": "FB04-089",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-089.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382628
+  },
+  {
+    "nom": "Majin Buu",
+    "numero": "FB04-090",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-090.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382564
+  },
+  {
+    "nom": "Majin Buu : Evil",
+    "numero": "FB04-091",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-091.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382815
+  },
+  {
+    "nom": "Majin Buu : Evil",
+    "numero": "FB04-092",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-092.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382572
+  },
+  {
+    "nom": "Majin Buu : Evil",
+    "numero": "FB04-093",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-093.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382807
+  },
+  {
+    "nom": "Majin Buu : Evil (Alt)",
+    "numero": "FB04-093_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-093_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202382557
+  },
+  {
+    "nom": "Majin Buu : Kid",
+    "numero": "FB04-094",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-094.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384074
+  },
+  {
+    "nom": "Majin Buu : Kid (Alt)",
+    "numero": "FB04-094_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-094_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384014
+  },
+  {
+    "nom": "Majin Buu : Kid",
+    "numero": "FB04-095",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-095.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202383979
+  },
+  {
+    "nom": "Majin Buu : Pure Evil",
+    "numero": "FB04-096",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-096.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202383976
+  },
+  {
+    "nom": "Hercule",
+    "numero": "FB04-097",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-097.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384017
+  },
+  {
+    "nom": "South Supreme Kai",
+    "numero": "FB04-098",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-098.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202383990
+  },
+  {
+    "nom": "Blind Spot Absorption",
+    "numero": "FB04-099",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-099.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384011
+  },
+  {
+    "nom": "Humanity&amp;#039;s Destruction",
+    "numero": "FB04-100",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-100.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202383999
+  },
+  {
+    "nom": "Unsealed Majin",
+    "numero": "FB04-101",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-101.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384002
+  },
+  {
+    "nom": "Frieza&amp;#039;s Spaceship",
+    "numero": "FB04-102",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-102.webp",
+    "rarete": "Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384012
+  },
+  {
+    "nom": "Baby Vegeta",
+    "numero": "FB04-103",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-103_f.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384042
+  },
+  {
+    "nom": "Baby Vegeta (Alt)",
+    "numero": "FB04-103_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-103_f_p1.webp",
+    "rarete": "Leader",
+    "category": "LEADER",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384230
+  },
+  {
+    "nom": "Great Ape Baby",
+    "numero": "FB04-104",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-104.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384247
+  },
+  {
+    "nom": "Great Ape Baby (Alt)",
+    "numero": "FB04-104_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-104_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202384260
+  },
+  {
+    "nom": "Glorio : DA",
+    "numero": "FB04-105",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-105.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202383977
+  },
+  {
+    "nom": "Super Uub",
+    "numero": "FB04-106",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-106.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385227
+  },
+  {
+    "nom": "Super Sigma",
+    "numero": "FB04-107",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-107.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385171
+  },
+  {
+    "nom": "Super Baby 1",
+    "numero": "FB04-108",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-108.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385228
+  },
+  {
+    "nom": "Super Baby 1 (Alt)",
+    "numero": "FB04-108_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-108_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385234
+  },
+  {
+    "nom": "Son Goku : GT",
+    "numero": "FB04-109",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-109.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385233
+  },
+  {
+    "nom": "Son Goten : GT",
+    "numero": "FB04-110",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-110.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385217
+  },
+  {
+    "nom": "Son Gohan : GT",
+    "numero": "FB04-111",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-111.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385216
+  },
+  {
+    "nom": "Dr. Myuu",
+    "numero": "FB04-112",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-112.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385155
+  },
+  {
+    "nom": "Trunks : GT",
+    "numero": "FB04-113",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-113.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385165
+  },
+  {
+    "nom": "Trunks : GT",
+    "numero": "FB04-114",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-114.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385185
+  },
+  {
+    "nom": "Trunks : GT (Alt)",
+    "numero": "FB04-114_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-114_p1.webp",
+    "rarete": "Super Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385226
+  },
+  {
+    "nom": "Nezi",
+    "numero": "FB04-115",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-115.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385229
+  },
+  {
+    "nom": "Hyper Meta-Rilldo",
+    "numero": "FB04-116",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-116.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385223
+  },
+  {
+    "nom": "Pan : GT",
+    "numero": "FB04-117",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-117.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385255
+  },
+  {
+    "nom": "Bizu",
+    "numero": "FB04-118",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-118.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202385217
+  },
+  {
+    "nom": "Bulla : GT",
+    "numero": "FB04-119",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-119.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386172
+  },
+  {
+    "nom": "Vegeta : GT",
+    "numero": "FB04-120",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-120.webp",
+    "rarete": "Peu Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386168
+  },
+  {
+    "nom": "Baby Vegeta",
+    "numero": "FB04-121",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-121.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386166
+  },
+  {
+    "nom": "Baby : Possessed Boy Form",
+    "numero": "FB04-122",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-122.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386404
+  },
+  {
+    "nom": "Meta-Rilldo",
+    "numero": "FB04-123",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-123.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386209
+  },
+  {
+    "nom": "Ribet",
+    "numero": "FB04-124",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-124.webp",
+    "rarete": "Commune",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386411
+  },
+  {
+    "nom": "General Rilldo",
+    "numero": "FB04-125",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-125.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386437
+  },
+  {
+    "nom": "New Planet Tuffle",
+    "numero": "FB04-126",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-126.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386143
+  },
+  {
+    "nom": "Super Galick Gun",
+    "numero": "FB04-127",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-127.webp",
+    "rarete": "Peu Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386199
+  },
+  {
+    "nom": "Revenge Death Ball",
+    "numero": "FB04-128",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-128.webp",
+    "rarete": "Commune",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386180
+  },
+  {
+    "nom": "Son Goku",
+    "numero": "FB04-129",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-129.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386380
+  },
+  {
+    "nom": "Son Goku (Alt)",
+    "numero": "FB04-129_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-129_p1.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386741
+  },
+  {
+    "nom": "Son Goku (Alt)",
+    "numero": "FB04-129_p2",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-129_p2.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386631
+  },
+  {
+    "nom": "Vegito",
+    "numero": "FB04-130",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-130.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386206
+  },
+  {
+    "nom": "Vegito (Alt)",
+    "numero": "FB04-130_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-130_p1.webp",
+    "rarete": "Secret Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202386631
+  },
+  {
+    "nom": "Special Beam Cannon (Alt)",
+    "numero": "FB03-077_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-077_p1.webp",
+    "rarete": "Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202387636
+  },
+  {
+    "nom": "Final Explosion (Alt)",
+    "numero": "FB03-102_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-102_p1.webp",
+    "rarete": "Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202387659
+  },
+  {
+    "nom": "10x Kamehameha (Alt)",
+    "numero": "FB03-137_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-137_p1.webp",
+    "rarete": "Rare",
+    "category": "EXTRA",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202387654
+  },
+  {
+    "nom": "Shin (Mini) : DA (Alt)",
+    "numero": "FB04-008_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-008_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202387644
+  },
+  {
+    "nom": "Bulma (Mini) : DA (Alt)",
+    "numero": "FB04-043_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-043_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202387656
+  },
+  {
+    "nom": "Piccolo (Mini) : DA (Alt)",
+    "numero": "FB04-067_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-067_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202388938
+  },
+  {
+    "nom": "King Gomah : DA (Alt)",
+    "numero": "FB04-080_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-080_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202387676
+  },
+  {
+    "nom": "Glorio : DA (Alt)",
+    "numero": "FB04-105_p1",
+    "set": "FB04 - Limitless Ultra",
+    "langue": "FR",
+    "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-105_p1.webp",
+    "rarete": "Rare",
+    "category": "BATTLE",
+    "variantes": [
+      "normale"
+    ],
+    "possede": {
+      "normale": false
+    },
+    "createdAt": 1784202387667
+  }
+]

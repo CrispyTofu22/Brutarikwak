@@ -1,0 +1,155 @@
+[
+  {
+    "nom": "Psykokwak",
+    "numero": "053/102",
+    "set": "Set de Base",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/053.png",
+    "rarete": "Commune",
+    "variantes": ["normale"],
+    "possede": {
+      "normale": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "065/082",
+    "set": "Team Rocket",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/065.png",
+    "rarete": "Commune",
+    "variantes": ["normale"],
+    "possede": {
+      "normale": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "104/147",
+    "set": "Aquapolis",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/104.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "070/100",
+    "set": "Diamant & Perle - Tempête",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/070.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "032/149",
+    "set": "Noir & Blanc - Frontières Franchies",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/032.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "028/162",
+    "set": "XY - Impulsion Turbo",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/028.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "026/181",
+    "set": "Soleil & Lune - Duo de Choc",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/026.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "032/163",
+    "set": "Épée & Bouclier - Styles de Combat",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/032_swsh.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "040/198",
+    "set": "Écarlate & Violet",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/040.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "054/165",
+    "set": "Écarlate & Violet - 151",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/054.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "175/165",
+    "set": "Écarlate & Violet - 151",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/175.png",
+    "rarete": "Illustration rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "043/167",
+    "set": "Écarlate & Violet - Mascarade Crépusculaire",
+    "langue": "FR",
+    "image": "/cards/pokemon/psykokwak/043.png",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  }
+]

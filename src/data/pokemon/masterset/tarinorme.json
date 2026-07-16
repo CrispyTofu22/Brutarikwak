@@ -1,0 +1,132 @@
+[
+  {
+    "nom": "Tarinorme",
+    "numero": "024/100",
+    "set": "Diamant & Perle - Tempête",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/024.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "020/095",
+    "set": "Appel des Légendes",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/020.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "082/124",
+    "set": "Noir & Blanc - Dragons Exaltés",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/082.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "069/119",
+    "set": "XY - Vigueur Spectrale",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/069.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "092/147",
+    "set": "Soleil & Lune - Ombres Ardentes",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/092.png",
+    "rarete": "Peu Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "131/202",
+    "set": "Épée & Bouclier",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/131.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "111/196",
+    "set": "Épée & Bouclier - Origine Perdue",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/111.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "116/193",
+    "set": "Écarlate & Violet - Évolutions à Paldea",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/116.png",
+    "rarete": "Peu Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "112/162",
+    "set": "Écarlate & Violet - Forces Temporelles",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/112.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "108/182",
+    "set": "Écarlate & Violet - Faille Paradoxe",
+    "langue": "FR",
+    "image": "/cards/pokemon/tarinorme/108.png",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  }
+]
