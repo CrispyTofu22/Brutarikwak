@@ -583,141 +583,66 @@ export const TCGCard: React.FC<TCGCardProps> = ({
     );
   }
 
+  const displayVariantName = (v: string) => {
+    const normalized = v.toLowerCase();
+    if (normalized === 'normale' || normalized === 'normal') {
+      return 'Commune';
+    }
+    return v.charAt(0).toUpperCase() + v.slice(1);
+  };
+
   return (
     <div 
       id={`card-${card.set.replace(/\s+/g, '-')}-${card.numero.replace('/', '-')}`}
-      className={`relative flex flex-col w-full rounded-2xl border-2 transition-all duration-300 overflow-hidden ${style.bg} ${
-        isFullyOwned 
-          ? 'border-emerald-500/80 shadow-[0_0_15px_rgba(16,185,129,0.25)]' 
-          : isPartiallyOwned 
-            ? 'border-yellow-500/60 shadow-[0_0_12px_rgba(234,179,8,0.15)]'
-            : style.border
-      }`}
+      className="flex flex-col w-full transition-all duration-300 select-none"
     >
-      {/* Edit mode top action bar */}
-      {isEditMode && (
-        <div className="flex items-center justify-between px-3 py-2 bg-indigo-950/50 border-b border-indigo-500/30 text-xs text-indigo-300 font-semibold z-20">
-          <div className="flex items-center gap-1">
-            <span className="w-2 h-2 rounded-full bg-indigo-500 animate-pulse" />
-            <span>Gérer la carte</span>
-          </div>
-          <div className="flex items-center gap-1.5">
-            <button 
-              onClick={(e) => { e.stopPropagation(); onMoveUp?.(); }}
-              disabled={!canMoveUp}
-              className="p-1 rounded bg-black/40 text-zinc-400 hover:text-white hover:bg-zinc-800 disabled:opacity-20 disabled:pointer-events-none transition-colors"
-              title="Monter"
-            >
-              <ArrowUp className="w-3.5 h-3.5" />
-            </button>
-            <button 
-              onClick={(e) => { e.stopPropagation(); onMoveDown?.(); }}
-              disabled={!canMoveDown}
-              className="p-1 rounded bg-black/40 text-zinc-400 hover:text-white hover:bg-zinc-800 disabled:opacity-20 disabled:pointer-events-none transition-colors"
-              title="Descendre"
-            >
-              <ArrowDown className="w-3.5 h-3.5" />
-            </button>
-            <button 
-              onClick={(e) => { e.stopPropagation(); onEdit?.(); }}
-              className="p-1 rounded bg-indigo-600/30 text-indigo-300 hover:text-white hover:bg-indigo-600/60 transition-colors"
-              title="Modifier"
-            >
-              <Pencil className="w-3.5 h-3.5" />
-            </button>
-            <button 
-              onClick={(e) => { e.stopPropagation(); onDelete?.(); }}
-              className="p-1 rounded bg-red-950/60 text-red-400 hover:text-white hover:bg-red-900/60 transition-colors"
-              title="Supprimer"
-            >
-              <Trash2 className="w-3.5 h-3.5" />
-            </button>
-          </div>
-        </div>
-      )}
-      {/* Top Foil Shine Overlay for Special Cards */}
-      {isSpecial && (
-        <div className="absolute inset-0 pointer-events-none bg-gradient-to-tr from-transparent via-white/5 to-transparent mix-blend-overlay opacity-40 z-10 animate-pulse" />
-      )}
-
-      {/* Holographic glowing borders for very rare cards */}
-      {isSpecial && (
-        <div className={`absolute -inset-1 rounded-2xl bg-gradient-to-r ${style.glow} opacity-40 blur-sm pointer-events-none -z-10`} />
-      )}
-
-      {/* Card Header */}
-      <div className={`flex items-center justify-between px-4 pt-3.5 pb-2 border-b z-10 ${isLightMode ? 'border-zinc-200/50' : 'border-white/5'}`}>
-        <div className="flex flex-col">
-          <div className="flex items-center gap-1.5">
-            <span className={`font-sans font-semibold text-sm tracking-tight truncate max-w-[150px] ${isLightMode ? 'text-zinc-900' : 'text-white/95'}`}>
-              {card.nom}
-            </span>
-            {isSpecial && (
-              <span className="flex h-2 w-2 relative">
-                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75"></span>
-                <span className="relative inline-flex rounded-full h-2 w-2 bg-amber-500"></span>
-              </span>
-            )}
-          </div>
-          <span className={`font-mono text-[10px] font-medium ${isLightMode ? 'text-zinc-500' : 'text-white/40'}`}>
-            {card.set}
-          </span>
-        </div>
-
-        <div className="flex items-center gap-1.5">
-          <span className={`font-mono text-xs font-semibold px-1.5 py-0.5 rounded border ${
-            isLightMode 
-              ? 'bg-zinc-100 text-zinc-700 border-zinc-200' 
-              : 'bg-white/5 text-white/60 border-white/10'
-          }`}>
-            {card.numero}
-          </span>
-          <span className={`text-[10px] uppercase font-bold px-1.5 py-0.5 rounded border ${
-            isLightMode 
-              ? 'bg-zinc-100 text-zinc-700 border-zinc-200' 
-              : 'bg-black/40 text-neutral-300 border-neutral-700/50'
-          }`}>
-            {card.langue}
-          </span>
-        </div>
+      {/* 1. DISCREET HEADER JUST ABOVE THE CARD */}
+      <div className="flex items-center justify-between text-xs font-semibold px-1 pb-1">
+        <span className={`truncate max-w-[75%] ${isLightMode ? 'text-zinc-900 font-bold' : 'text-zinc-200 font-semibold'}`}>
+          {card.nom}
+        </span>
+        <span className={`font-mono text-[10px] font-bold ${isLightMode ? 'text-zinc-600' : 'text-zinc-400'}`}>
+          N° {card.numero}
+        </span>
       </div>
 
-      {/* Card Graphic/Illustration Section */}
-      <div className={`relative flex items-center justify-center h-44 px-3 py-2 select-none overflow-hidden group ${
-        isLightMode ? 'bg-zinc-50/70' : 'bg-black/35'
+      {/* 2. THE CARD IMAGE / GRAPHIC CONTAINER */}
+      <div className={`relative w-full aspect-[63/88] rounded-2xl overflow-hidden shadow-sm group border transition-all duration-300 ${
+        isFullyOwned 
+          ? 'border-emerald-500 shadow-[0_4px_12px_rgba(16,185,129,0.15)]' 
+          : isPartiallyOwned 
+            ? 'border-amber-500 shadow-[0_4px_10px_rgba(245,158,11,0.1)]'
+            : isLightMode
+              ? 'border-zinc-200 bg-zinc-50 hover:border-zinc-300'
+              : 'border-zinc-800 bg-zinc-900/40 hover:border-zinc-700'
       }`}>
-        {/* Abstract Background Design based on element */}
-        <div className={`absolute inset-0 bg-radial-gradient from-transparent ${
-          isLightMode ? 'to-zinc-200/30' : 'to-black/60'
-        } opacity-60`} />
-        
-        {/* Dynamic Styled SVG Illustration or Real Image */}
-        <div 
-          onClick={() => { if (hasValidImage) setIsZoomed(true); }}
-          className={`w-full h-full max-h-40 flex items-center justify-center relative transition-transform duration-500 group-hover:scale-105 ${hasValidImage ? 'cursor-zoom-in' : ''}`}
-        >
-          {hasValidImage ? (
-            <img 
-              src={resolvedImage} 
-              alt={card.nom} 
-              onError={() => setImageError(true)}
-              referrerPolicy="no-referrer"
-              className="max-w-full max-h-full object-contain rounded-lg shadow-md" 
-            />
-          ) : (
-            renderCardIllustration()
-          )}
+        {/* Holographic light effect on hover for special cards */}
+        {isSpecial && (
+          <div className="absolute inset-0 pointer-events-none bg-gradient-to-tr from-transparent via-white/10 to-transparent mix-blend-overlay opacity-50 z-10 animate-pulse" />
+        )}
+
+        {/* Status indicator badge (fully owned / partially owned) */}
+        <div className="absolute top-2 left-2 z-20 flex gap-1">
+          {isFullyOwned ? (
+            <div className="bg-emerald-500 text-white p-1 rounded-full shadow-md" title="Série possédée au complet !">
+              <Check className="w-3 h-3 stroke-[3]" />
+            </div>
+          ) : isPartiallyOwned ? (
+            <div className="bg-amber-500 text-white p-1 rounded-full shadow-md" title="Série en cours">
+              <Sparkles className="w-3 h-3" />
+            </div>
+          ) : null}
         </div>
 
-        {/* Floating Zoom Icon Option */}
+        {/* Zoom Trigger Button */}
         {hasValidImage && (
           <button
             type="button"
             onClick={(e) => { e.stopPropagation(); setIsZoomed(true); }}
-            className={`absolute top-2 left-2 z-10 p-1.5 rounded-full backdrop-blur-md transition-all border ${
+            className={`absolute top-2 right-2 z-20 p-1.5 rounded-full backdrop-blur-md opacity-0 group-hover:opacity-100 transition-all border shadow-sm cursor-pointer ${
               isLightMode 
-                ? 'bg-white/80 text-zinc-700 hover:text-black hover:bg-white border-zinc-200' 
-                : 'bg-black/60 text-zinc-300 hover:text-white hover:bg-black/80 border-white/10'
+                ? 'bg-white/90 text-zinc-700 hover:text-black border-zinc-200' 
+                : 'bg-black/75 text-zinc-300 hover:text-white border-white/10'
             }`}
             title="Agrandir l'image"
           >
@@ -725,92 +650,101 @@ export const TCGCard: React.FC<TCGCardProps> = ({
           </button>
         )}
 
-        {/* Quick status pill inside the illustration frame */}
-        <div className="absolute bottom-2 left-2 z-10">
-          <span className={`text-[9px] font-bold px-1.5 py-0.5 rounded-full uppercase tracking-wider ${
-            isFullyOwned 
-              ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20' 
-              : isPartiallyOwned 
-                ? 'bg-yellow-500/10 text-yellow-400 border border-yellow-500/20' 
-                : isLightMode
-                  ? 'bg-zinc-100 text-zinc-500 border border-zinc-200'
-                  : 'bg-neutral-800 text-neutral-400 border border-neutral-700/50'
-          }`}>
-            {isFullyOwned ? 'Possédé' : isPartiallyOwned ? 'En cours' : 'Manquant'}
-          </span>
+        {/* Edit mode controls overlay */}
+        {isEditMode && (
+          <div className="absolute top-2 right-2 z-30 flex gap-1 bg-black/85 backdrop-blur-md p-1.5 rounded-lg border border-white/10 shadow-lg">
+            <button 
+              onClick={(e) => { e.stopPropagation(); onMoveUp?.(); }}
+              disabled={!canMoveUp}
+              className="p-1 rounded text-zinc-400 hover:text-white disabled:opacity-20 disabled:pointer-events-none transition-colors cursor-pointer"
+              title="Monter"
+            >
+              <ArrowUp className="w-3.5 h-3.5" />
+            </button>
+            <button 
+              onClick={(e) => { e.stopPropagation(); onMoveDown?.(); }}
+              disabled={!canMoveDown}
+              className="p-1 rounded text-zinc-400 hover:text-white disabled:opacity-20 disabled:pointer-events-none transition-colors cursor-pointer"
+              title="Descendre"
+            >
+              <ArrowDown className="w-3.5 h-3.5" />
+            </button>
+            <button 
+              onClick={(e) => { e.stopPropagation(); onEdit?.(); }}
+              className="p-1 rounded text-indigo-400 hover:text-indigo-300 transition-colors cursor-pointer"
+              title="Modifier"
+            >
+              <Pencil className="w-3.5 h-3.5" />
+            </button>
+            <button 
+              onClick={(e) => { e.stopPropagation(); onDelete?.(); }}
+              className="p-1 rounded text-red-400 hover:text-red-300 transition-colors cursor-pointer"
+              title="Supprimer"
+            >
+              <Trash2 className="w-3.5 h-3.5" />
+            </button>
+          </div>
+        )}
+
+        {/* Card Graphic */}
+        <div 
+          onClick={() => { if (hasValidImage) setIsZoomed(true); }}
+          className={`w-full h-full flex items-center justify-center p-2 relative overflow-hidden ${
+            hasValidImage ? 'cursor-zoom-in' : ''
+          }`}
+        >
+          {hasValidImage ? (
+            <img 
+              src={resolvedImage} 
+              alt={card.nom} 
+              onError={() => setImageError(true)}
+              referrerPolicy="no-referrer"
+              className="w-full h-full object-contain rounded-lg transition-transform duration-500 group-hover:scale-105" 
+            />
+          ) : (
+            <div className="w-2/3 h-2/3 flex items-center justify-center">
+              {renderCardIllustration()}
+            </div>
+          )}
         </div>
 
-        <div className="absolute top-2 right-2 flex items-center gap-1">
-          <span className={`text-[10px] font-bold px-2 py-0.5 rounded-full flex items-center gap-1 ${style.badge}`}>
-            {style.icon}
-            <span className="font-medium text-[10px]">{card.rarete}</span>
-          </span>
-        </div>
-      </div>
-
-      {/* Card Checkbox Tracking Panel */}
-      <div className={`flex flex-col p-3.5 gap-2 border-t z-10 ${
-        isLightMode ? 'bg-zinc-50/50 border-t border-zinc-100' : 'bg-black/20 border-t border-white/5'
-      }`}>
-        <span className={`text-[10px] uppercase tracking-wider font-bold ${
-          isLightMode ? 'text-zinc-400' : 'text-neutral-400'
-        }`}>
-          Variantes disponibles :
-        </span>
-
-        <div className="grid grid-cols-1 gap-1.5">
+        {/* 3. FLOATING VARIANTS OVERLAY AT THE BOTTOM OF THE CARD */}
+        <div className="absolute inset-x-0 bottom-0 bg-black/75 backdrop-blur-[2px] px-1 py-1 flex flex-wrap gap-1 items-center justify-center z-10 border-t border-white/5">
           {card.variantes.map((variant) => {
             const variantKey = `${card.set}::${card.numero}::${variant}`;
             const isOwned = !!possession[variantKey];
-
             return (
               <button
                 key={variant}
                 id={`btn-toggle-${card.set.replace(/\s+/g, '-')}-${card.numero.replace('/', '-')}-${variant}`}
-                onClick={() => onToggle(variant)}
-                className={`flex items-center justify-between w-full text-left px-3 py-2.5 rounded-xl border text-xs font-semibold select-none transition-all duration-200 active:scale-[0.98] ${
-                  isOwned
-                    ? isLightMode
-                      ? 'bg-emerald-50 border-emerald-300 text-emerald-800 shadow-[0_2px_8px_rgba(16,185,129,0.08)]'
-                      : 'bg-emerald-500/15 border-emerald-500/50 text-emerald-300 shadow-[0_2px_8px_rgba(16,185,129,0.1)]'
-                    : isLightMode
-                      ? 'bg-zinc-50 border-zinc-200 text-zinc-700 hover:bg-zinc-100/80 hover:border-zinc-300 active:bg-zinc-100'
-                      : 'bg-zinc-900/60 border-zinc-800/80 text-neutral-300 hover:border-zinc-700 active:bg-zinc-800/80'
+                onClick={(e) => { e.stopPropagation(); onToggle(variant); }}
+                className={`px-1.5 py-0.5 rounded text-[8.5px] font-extrabold uppercase tracking-wide transition-all duration-150 active:scale-95 cursor-pointer flex items-center gap-0.5 ${
+                  isOwned 
+                    ? 'bg-emerald-500 text-white shadow-sm shadow-emerald-500/20 hover:bg-emerald-400' 
+                    : 'bg-black/65 text-zinc-300 hover:text-white hover:bg-black/85 border border-white/15'
                 }`}
               >
-                <span className="capitalize flex items-center gap-2">
-                  <span className={`w-4 h-4 rounded-md flex items-center justify-center border transition-all duration-200 ${
-                    isOwned 
-                      ? isLightMode
-                        ? 'bg-emerald-500 border-emerald-400 text-white'
-                        : 'bg-emerald-500 border-emerald-400 text-black' 
-                      : isLightMode
-                        ? 'border-zinc-300 bg-white'
-                        : 'border-zinc-700 bg-black/40'
-                  }`}>
-                    {isOwned && <Check className="w-3 h-3 stroke-[3]" />}
-                  </span>
-                  {variant}
-                </span>
-
-                <span className={`text-[10px] font-bold px-1.5 py-0.5 rounded-full ${
-                  isOwned 
-                    ? isLightMode
-                      ? 'bg-emerald-100 text-emerald-700'
-                      : 'bg-emerald-500/20 text-emerald-400' 
-                    : isLightMode
-                      ? 'bg-zinc-100 text-zinc-500'
-                      : 'bg-neutral-800 text-neutral-400'
-                }`}>
-                  {isOwned ? 'Possédé' : 'Manquant'}
-                </span>
+                {isOwned && <Check className="w-2.5 h-2.5 stroke-[4]" />}
+                {displayVariantName(variant)}
               </button>
             );
           })}
         </div>
       </div>
 
-      {/* Full-Screen Zoom Lightbox Modal */}
+      {/* 4. DISCREET INFORMATION BELOW THE CARD */}
+      <div className="flex items-center justify-between text-[10px] mt-1 px-1">
+        <span className={`truncate max-w-[70%] font-semibold ${isLightMode ? 'text-zinc-600' : 'text-zinc-400'}`}>
+          {card.set}
+        </span>
+        <span className={`font-bold uppercase tracking-wider text-[9px] ${
+          isLightMode ? 'text-indigo-600 font-extrabold' : 'text-indigo-400'
+        }`}>
+          {card.rarete}
+        </span>
+      </div>
+
+      {/* Lightbox / Zoom Modal */}
       {isZoomed && (
         <div 
           className="fixed inset-0 bg-black/95 z-[9999] flex flex-col items-center justify-center p-4 backdrop-blur-md cursor-zoom-out"
@@ -828,7 +762,7 @@ export const TCGCard: React.FC<TCGCardProps> = ({
               <p className="text-zinc-400 text-xs mt-0.5">{card.set} — N° {card.numero}</p>
             </div>
             <button 
-              className="absolute -top-12 right-0 p-2 text-white/70 hover:text-white bg-white/10 hover:bg-white/20 rounded-full transition-colors font-bold text-xs"
+              className="absolute -top-12 right-0 p-2 text-white/70 hover:text-white bg-white/10 hover:bg-white/20 rounded-full transition-colors font-bold text-xs cursor-pointer"
               onClick={() => setIsZoomed(false)}
             >
               Fermer [X]

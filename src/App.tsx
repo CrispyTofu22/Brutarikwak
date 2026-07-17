@@ -140,7 +140,7 @@ export default function App() {
   // --- Search & Filters State ---
   const [searchQuery, setSearchQuery] = useState('');
   const [filterMode, setFilterMode] = useState<'all' | 'missing' | 'owned'>('all');
-  const [sortMode, setSortMode] = useState<'date' | 'number'>('date');
+  const [sortMode, setSortMode] = useState<'date' | 'number'>('number');
   const [showResetConfirm, setShowResetConfirm] = useState(false);
 
   // --- Edit/Management Mode States ---
@@ -823,17 +823,21 @@ export default function App() {
 
           {/* Global Progress Sticky Banner */}
           {currentCategory === 'home' && (
-            <div className="bg-zinc-900/40 border border-zinc-800/80 rounded-xl p-3 flex flex-col gap-1.5">
+            <div className={`border rounded-xl p-3 flex flex-col gap-1.5 transition-colors duration-300 ${
+              isLightMode ? 'bg-zinc-50 border-zinc-200' : 'bg-zinc-900/40 border-zinc-800/80'
+            }`}>
               <div className="flex items-center justify-between">
-                <div className="flex items-center gap-1.5 text-xs text-zinc-400 font-semibold">
-                  <TrendingUp className="w-3.5 h-3.5 text-indigo-400" />
+                <div className={`flex items-center gap-1.5 text-xs font-semibold ${
+                  isLightMode ? 'text-zinc-700' : 'text-zinc-400'
+                }`}>
+                  <TrendingUp className={`w-3.5 h-3.5 ${isLightMode ? 'text-indigo-600' : 'text-indigo-400'}`} />
                   <span>Progression globale</span>
                 </div>
-                <span className="font-mono text-xs font-bold text-indigo-400">
-                  {globalStats.ownedVariants} / {globalStats.totalVariants} <span className="text-[10px] text-zinc-500 font-medium">({globalStats.percentage}%)</span>
+                <span className={`font-mono text-xs font-bold ${isLightMode ? 'text-indigo-600' : 'text-indigo-400'}`}>
+                  {globalStats.ownedVariants} / {globalStats.totalVariants} <span className={`text-[10px] font-semibold ${isLightMode ? 'text-zinc-500' : 'text-zinc-500'}`}>({globalStats.percentage}%)</span>
                 </span>
               </div>
-              <div className="w-full bg-zinc-800 h-1.5 rounded-full overflow-hidden">
+              <div className={`w-full h-1.5 rounded-full overflow-hidden ${isLightMode ? 'bg-zinc-200' : 'bg-zinc-800'}`}>
                 <div 
                   className="bg-gradient-to-r from-indigo-500 to-indigo-400 h-full rounded-full transition-all duration-500 ease-out"
                   style={{ width: `${globalStats.percentage}%` }}
@@ -969,11 +973,17 @@ export default function App() {
                         {bgPokemon && (
                           <button 
                             onClick={() => setBgPokemon('')} 
-                            className="px-2.5 py-1.5 bg-red-900/40 hover:bg-red-850 text-red-400 hover:text-red-300 rounded text-[10px] font-bold"
+                            className="px-2.5 py-1.5 bg-red-900/40 hover:bg-red-850 text-red-400 hover:text-red-300 rounded text-[10px] font-bold cursor-pointer"
                           >
                             Effacer
                           </button>
                         )}
+                        <button 
+                          onClick={() => setShowBgEditPokemon(false)}
+                          className="px-3 py-1.5 bg-indigo-600 hover:bg-indigo-500 text-white text-[10px] font-bold rounded cursor-pointer active:scale-95 transition-all"
+                        >
+                          Valider
+                        </button>
                       </div>
                     </div>
                   )}
@@ -1094,11 +1104,17 @@ export default function App() {
                         {bgDragonBall && (
                           <button 
                             onClick={() => setBgDragonBall('')} 
-                            className="px-2.5 py-1.5 bg-red-900/40 hover:bg-red-850 text-red-400 hover:text-red-300 rounded text-[10px] font-bold"
+                            className="px-2.5 py-1.5 bg-red-900/40 hover:bg-red-850 text-red-400 hover:text-red-300 rounded text-[10px] font-bold cursor-pointer"
                           >
                             Effacer
                           </button>
                         )}
+                        <button 
+                          onClick={() => setShowBgEditDragonBall(false)}
+                          className="px-3 py-1.5 bg-indigo-600 hover:bg-indigo-500 text-white text-[10px] font-bold rounded cursor-pointer active:scale-95 transition-all"
+                        >
+                          Valider
+                        </button>
                       </div>
                     </div>
                   )}
@@ -1154,8 +1170,8 @@ export default function App() {
               
               {/* Category Header */}
               <div className="flex flex-col gap-1">
-                <h2 className="font-display font-bold text-lg text-white">Collection Pokémon</h2>
-                <p className="text-xs text-zinc-400">Sélectionnez la section ou l'extension à consulter.</p>
+                <h2 className={`font-display font-bold text-lg ${isLightMode ? 'text-zinc-900' : 'text-white'}`}>Collection Pokémon</h2>
+                <p className={`text-xs ${isLightMode ? 'text-zinc-600' : 'text-zinc-400'}`}>Sélectionnez la section ou l'extension à consulter.</p>
               </div>
 
               {/* SECTION A: MASTER SET */}
@@ -1177,17 +1193,21 @@ export default function App() {
                         key={pk.id}
                         id={`btn-sub-${pk.id}`}
                         onClick={() => navigateToCategory('pokemon', pk.id as SubCategory)}
-                        className="flex items-center justify-between p-4 rounded-xl border border-zinc-800 bg-zinc-900/35 active:scale-[0.98] text-left cursor-pointer hover:border-zinc-700"
+                        className={`flex items-center justify-between p-4 rounded-xl border active:scale-[0.98] text-left cursor-pointer transition-colors duration-200 ${
+                          isLightMode 
+                            ? 'bg-zinc-50 border-zinc-200 hover:bg-zinc-100 hover:border-zinc-300' 
+                            : 'bg-zinc-900/35 border-zinc-800 hover:border-zinc-700'
+                        }`}
                       >
                         <div>
-                          <span className="font-bold text-sm text-zinc-200 block">{pk.name}</span>
-                          <span className="text-[11px] text-zinc-400 block mt-0.5">{pk.subtitle}</span>
+                          <span className={`font-bold text-sm block ${isLightMode ? 'text-zinc-800' : 'text-zinc-200'}`}>{pk.name}</span>
+                          <span className={`text-[11px] block mt-0.5 ${isLightMode ? 'text-zinc-500' : 'text-zinc-400'}`}>{pk.subtitle}</span>
                         </div>
                         <div className="flex flex-col items-end gap-1">
                           <span className="font-mono text-xs font-bold text-indigo-400">
                             {stats.owned} / {stats.total}
                           </span>
-                          <div className="w-12 bg-zinc-800 h-1 rounded-full overflow-hidden">
+                          <div className={`w-12 h-1 rounded-full overflow-hidden ${isLightMode ? 'bg-zinc-200' : 'bg-zinc-800'}`}>
                             <div className="bg-indigo-500 h-full" style={{ width: `${stats.percentage}%` }} />
                           </div>
                         </div>
@@ -1215,17 +1235,21 @@ export default function App() {
                         key={set.id}
                         id={`btn-sub-${set.id}`}
                         onClick={() => navigateToCategory('pokemon', set.id as SubCategory)}
-                        className="flex items-center justify-between p-4 rounded-xl border border-zinc-800 bg-zinc-900/35 active:scale-[0.98] text-left cursor-pointer hover:border-zinc-700"
+                        className={`flex items-center justify-between p-4 rounded-xl border active:scale-[0.98] text-left cursor-pointer transition-colors duration-200 ${
+                          isLightMode 
+                            ? 'bg-zinc-50 border-zinc-200 hover:bg-zinc-100 hover:border-zinc-300' 
+                            : 'bg-zinc-900/35 border-zinc-800 hover:border-zinc-700'
+                        }`}
                       >
                         <div>
-                          <span className="font-bold text-sm text-zinc-200 block">{set.name}</span>
-                          <span className="text-[11px] text-zinc-400 block mt-0.5">{set.subtitle}</span>
+                          <span className={`font-bold text-sm block ${isLightMode ? 'text-zinc-800' : 'text-zinc-200'}`}>{set.name}</span>
+                          <span className={`text-[11px] block mt-0.5 ${isLightMode ? 'text-zinc-500' : 'text-zinc-400'}`}>{set.subtitle}</span>
                         </div>
                         <div className="flex flex-col items-end gap-1">
                           <span className="font-mono text-xs font-bold text-indigo-400">
                             {stats.owned} / {stats.total}
                           </span>
-                          <div className="w-12 bg-zinc-800 h-1 rounded-full overflow-hidden">
+                          <div className={`w-12 h-1 rounded-full overflow-hidden ${isLightMode ? 'bg-zinc-200' : 'bg-zinc-800'}`}>
                             <div className="bg-indigo-500 h-full" style={{ width: `${stats.percentage}%` }} />
                           </div>
                         </div>
@@ -1245,8 +1269,8 @@ export default function App() {
               
               {/* Category Header */}
               <div className="flex flex-col gap-1">
-                <h2 className="font-display font-bold text-lg text-white">Dragon Ball Super</h2>
-                <p className="text-xs text-zinc-400">Consultez et complétez les extensions Fusion World.</p>
+                <h2 className={`font-display font-bold text-lg ${isLightMode ? 'text-zinc-900' : 'text-white'}`}>Dragon Ball Super</h2>
+                <p className={`text-xs ${isLightMode ? 'text-zinc-600' : 'text-zinc-400'}`}>Consultez et complétez les extensions Fusion World.</p>
               </div>
 
               <div className="grid grid-cols-1 gap-3">
@@ -1260,22 +1284,26 @@ export default function App() {
                       key={db.id}
                       id={`btn-sub-${db.id}`}
                       onClick={() => navigateToCategory('dragonball', db.id as SubCategory)}
-                      className="flex items-center justify-between p-4 rounded-xl border border-zinc-800 bg-zinc-900/35 active:scale-[0.98] text-left cursor-pointer hover:border-zinc-700"
+                      className={`flex items-center justify-between p-4 rounded-xl border active:scale-[0.98] text-left cursor-pointer transition-colors duration-200 ${
+                        isLightMode 
+                          ? 'bg-zinc-50 border-zinc-200 hover:bg-zinc-100 hover:border-zinc-300' 
+                          : 'bg-zinc-900/35 border-zinc-800 hover:border-zinc-700'
+                      }`}
                     >
                       <div className="flex items-center gap-3">
                         <div className="h-8 w-8 rounded-lg bg-amber-500/10 flex items-center justify-center border border-amber-500/20 text-amber-500 font-bold text-xs">
                           DB
                         </div>
                         <div>
-                          <span className="font-bold text-sm text-zinc-200 block">{db.name}</span>
-                          <span className="text-[11px] text-zinc-400 block mt-0.5">{db.subtitle}</span>
+                          <span className={`font-bold text-sm block ${isLightMode ? 'text-zinc-800' : 'text-zinc-200'}`}>{db.name}</span>
+                          <span className={`text-[11px] block mt-0.5 ${isLightMode ? 'text-zinc-500' : 'text-zinc-400'}`}>{db.subtitle}</span>
                         </div>
                       </div>
                       <div className="flex flex-col items-end gap-1">
                         <span className="font-mono text-xs font-bold text-amber-500">
                           {stats.owned} / {stats.total}
                         </span>
-                        <div className="w-12 bg-zinc-800 h-1 rounded-full overflow-hidden">
+                        <div className={`w-12 h-1 rounded-full overflow-hidden ${isLightMode ? 'bg-zinc-200' : 'bg-zinc-800'}`}>
                           <div className="bg-amber-500 h-full" style={{ width: `${stats.percentage}%` }} />
                         </div>
                       </div>
@@ -1295,10 +1323,10 @@ export default function App() {
               {/* Back breadcrumb, section header and edit toggle */}
               <div className="flex items-end justify-between gap-2">
                 <div className="flex flex-col gap-1">
-                  <span className="text-[10px] text-zinc-500 uppercase font-bold tracking-wider">
+                  <span className={`text-[10px] uppercase font-bold tracking-wider ${isLightMode ? 'text-zinc-500' : 'text-zinc-500'}`}>
                     {currentCategory === 'pokemon' ? 'Pokémon' : 'Dragon Ball Super'}
                   </span>
-                  <h2 className="font-display font-bold text-lg text-white">
+                  <h2 className={`font-display font-bold text-lg ${isLightMode ? 'text-zinc-900' : 'text-white'}`}>
                     {SECTION_LABELS[currentSubCategory]}
                   </h2>
                 </div>
@@ -1313,7 +1341,9 @@ export default function App() {
                   className={`px-3 py-1.5 rounded-lg text-xs font-bold border flex items-center gap-1.5 transition-all active:scale-95 cursor-pointer ${
                     isEditMode 
                       ? 'bg-indigo-600 border-indigo-400 text-white shadow-md shadow-indigo-600/20' 
-                      : 'bg-zinc-900/60 border-zinc-800 text-zinc-400 hover:text-white'
+                      : isLightMode
+                        ? 'bg-zinc-100 border-zinc-300 text-zinc-700 hover:bg-zinc-200'
+                        : 'bg-zinc-900/60 border-zinc-800 text-zinc-400 hover:text-white'
                   }`}
                 >
                   <SlidersHorizontal className="w-3.5 h-3.5" />
@@ -1323,17 +1353,21 @@ export default function App() {
 
               {/* Section Statistics Panel */}
               {activeSubCategoryStats && (
-                <div className="bg-zinc-950/40 border border-zinc-900 rounded-xl p-3 flex flex-col gap-2">
+                <div className={`border rounded-xl p-3 flex flex-col gap-2 transition-colors duration-300 ${
+                  isLightMode ? 'bg-zinc-50 border-zinc-200' : 'bg-zinc-950/40 border-zinc-900'
+                }`}>
                   <div className="flex items-center justify-between">
-                    <span className="text-xs text-zinc-400 font-semibold flex items-center gap-1">
-                      <CheckCircle className="w-3.5 h-3.5 text-emerald-400" />
+                    <span className={`text-xs font-semibold flex items-center gap-1 ${
+                      isLightMode ? 'text-zinc-700' : 'text-zinc-400'
+                    }`}>
+                      <CheckCircle className={`w-3.5 h-3.5 ${isLightMode ? 'text-emerald-600' : 'text-emerald-400'}`} />
                       Complétion de la liste
                     </span>
-                    <span className="font-mono text-xs font-bold text-emerald-400">
-                      {activeSubCategoryStats.owned} / {activeSubCategoryStats.total} <span className="text-[10px] text-zinc-500 font-medium">({activeSubCategoryStats.percentage}%)</span>
+                    <span className={`font-mono text-xs font-bold ${isLightMode ? 'text-emerald-600' : 'text-emerald-400'}`}>
+                      {activeSubCategoryStats.owned} / {activeSubCategoryStats.total} <span className={`text-[10px] font-semibold ${isLightMode ? 'text-zinc-500' : 'text-zinc-500'}`}>({activeSubCategoryStats.percentage}%)</span>
                     </span>
                   </div>
-                  <div className="w-full bg-zinc-800 h-1.5 rounded-full overflow-hidden">
+                  <div className={`w-full h-1.5 rounded-full overflow-hidden ${isLightMode ? 'bg-zinc-200' : 'bg-zinc-800'}`}>
                     <div 
                       className="bg-emerald-500 h-full rounded-full transition-all duration-300"
                       style={{ width: `${activeSubCategoryStats.percentage}%` }}
@@ -1846,7 +1880,7 @@ export default function App() {
               </div>
 
               {/* Dynamic Checklist Render */}
-              <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-3 md:gap-4 mt-1">
+              <div className="grid grid-cols-2 gap-3 md:gap-4 mt-1">
                 {activeCardsList.length > 0 ? (
                   activeCardsList.map((card) => {
                     const cardKey = `${card.set}::${card.numero}`;
