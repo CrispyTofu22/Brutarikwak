@@ -1,32 +1,46 @@
 {
   "id": "/",
+  "scope": "/",
   "short_name": "Brutalikwak",
   "name": "Brutalikwak - Suivi de Collection TCG",
   "description": "Suivi de collection de cartes à collectionner Pokémon et Dragon Ball Super",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "/icons/icon-16.png?v=8",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/icons/icon-32.png?v=8",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/icons/icon-144.png?v=8",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/icons/icon-152.png?v=8",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/icons/icon-180.png?v=8",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/icons/icon-192.png?v=8",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
-      "src": "/icons/icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "maskable"
-    },
-    {
-      "src": "/icons/icon-512.png",
+      "src": "/icons/icon-512.png?v=8",
       "type": "image/png",
       "sizes": "512x512",
-      "purpose": "any"
-    },
-    {
-      "src": "/icons/icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ],
   "start_url": "/",

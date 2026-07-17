@@ -1,20 +1,47 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Brutalikwak</title>
-    <link rel="manifest" href="/manifest.json?v=4" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon.png?v=4" />
-    <link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png?v=4" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png?v=4" />
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json" />
+    
+    <!-- Standard Favicons/Icons -->
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/icon-16.png?v=8" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/icon-32.png?v=8" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png?v=8" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/icons/icon-512.png?v=8" />
+    
+    <!-- iOS / Apple Splash & Icon Settings -->
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png?v=8" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/icons/icon-152.png?v=8" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/icon-180.png?v=8" />
+    
+    <!-- Mobile App Settings -->
+    <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="theme-color" content="#6366f1" />
   </head>
-  <body>
+  <body class="bg-[#0c0c0e] text-white">
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+    
+    <!-- Service Worker Registration Script -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js')
+            .then((reg) => {
+              console.log('Service Worker registered successfully:', reg.scope);
+            })
+            .catch((err) => {
+              console.error('Service Worker registration failed:', err);
+            });
+        });
+      }
+    </script>
   </body>
 </html>
-

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'brutalikwak-v2';
+const CACHE_NAME = 'brutalikwak-v8';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
@@ -6,6 +6,11 @@ const ASSETS_TO_CACHE = [
   '/manifest.webmanifest',
   '/icons/favicon.png',
   '/icons/apple-touch-icon.png',
+  '/icons/icon-16.png',
+  '/icons/icon-32.png',
+  '/icons/icon-144.png',
+  '/icons/icon-152.png',
+  '/icons/icon-180.png',
   '/icons/icon-192.png',
   '/icons/icon-512.png',
   '/icon.png'
