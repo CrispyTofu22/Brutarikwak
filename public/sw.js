@@ -1,4 +1,4 @@
-const CACHE_NAME = 'brutalikwak-v1';
+const CACHE_NAME = 'brutalikwak-v2';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
@@ -14,7 +14,14 @@ const ASSETS_TO_CACHE = [
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(ASSETS_TO_CACHE);
+      // Cache each asset individually to ensure Service Worker still registers if one is missing
+      return Promise.all(
+        ASSETS_TO_CACHE.map((url) => {
+          return cache.add(url).catch((err) => {
+            console.warn(`Failed to pre-cache asset: ${url}`, err);
+          });
+        })
+      );
     }).then(() => self.skipWaiting())
   );
 });
