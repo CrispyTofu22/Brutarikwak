@@ -5,19 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Brutalikwak</title>
     
-    <!-- PWA Manifest without query parameters (important for some mobile devices) -->
-    <link rel="manifest" href="/manifest.json" />
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json?v=11" />
     
-    <!-- Standard Favicons/Icons using clean, local icon-192.png and icon-512.png -->
-    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
-    <link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png" />
+    <!-- Standard Favicons/Icons using clean, local icon formats -->
+    <link rel="icon" type="image/png" sizes="16x16" href="/icon-16.png?v=11" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/icon-32.png?v=11" />
+    <link rel="icon" type="image/png" sizes="180x180" href="/icon-180.png?v=11" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png?v=11" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png?v=11" />
     
-    <!-- iOS / Apple Splash & Icon Settings (Using root-relative apple-touch-icon without query string) -->
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
+    <!-- iOS / Apple Splash & Icon Settings -->
+    <link rel="apple-touch-icon" href="/icon-180.png?v=11" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icon-180.png?v=11" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/icon-192.png?v=11" />
+    <link rel="apple-touch-icon-precomposed" href="/icon-180.png?v=11" />
     
     <!-- Microsoft Tile Settings -->
-    <meta name="msapplication-TileImage" content="/icon-192.png" />
+    <meta name="msapplication-TileImage" content="/icon-192.png?v=11" />
     <meta name="msapplication-TileColor" content="#0c0c0e" />
     
     <!-- Mobile App Settings -->
@@ -30,15 +35,15 @@
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
     
-    <!-- Service Worker Registration Script without query params -->
+    <!-- Service Worker Registration Script with version bypass -->
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js')
+          navigator.serviceWorker.register('/sw.js?v=11')
             .then((reg) => {
               console.log('Service Worker registered successfully:', reg.scope);
               
-              // Standard PWA update trigger: checking if there is a new service worker waiting
+              // Standard PWA update trigger
               reg.onupdatefound = () => {
                 const installingWorker = reg.installing;
                 if (installingWorker) {
