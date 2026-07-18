@@ -98,14 +98,37 @@ export const TCGCard: React.FC<TCGCardProps> = ({
         'xy - poing furieux': 'xy3',
         'xy - offensive vapeur': 'xy11',
         'soleil & lune - duo de choc': 'sm9',
-        'épée & bouclier - voltage éclatant': 'swsh4'
+        'épée & bouclier - voltage éclatant': 'swsh4',
+        'épée & bouclier - règne de glace': 'swsh6',
+        'écarlate & violet - destinées de paldea': 'sv4.5',
+        'écarlate & violet - forces temporelles': 'sv5',
+        'écarlate & violet': 'sv1',
+        'générations': 'g1',
+        'invasion carmin': 'sm4',
+        'xy - promos': 'xyp',
+        'promos xy': 'xyp'
       };
       const normalizedSet = card.set.toLowerCase();
       const setKey = Object.keys(setMap).find(k => normalizedSet.includes(k));
       if (setKey) {
         const setId = setMap[setKey];
-        const numOnly = card.numero.split('/')[0].trim().replace(/^0+/, '');
-        const series = setId.replace(/\d+$/, '');
+        const numOnlyRaw = card.numero.split('/')[0].trim();
+        const numOnly = /^\d+$/.test(numOnlyRaw) ? numOnlyRaw.replace(/^0+/, '') : numOnlyRaw;
+        
+        let series = '';
+        if (setId === 'g1' || setId === 'xyp') {
+          series = 'xy';
+        } else if (setId.startsWith('sv')) {
+          series = 'sv';
+        } else if (setId.startsWith('swsh')) {
+          series = 'swsh';
+        } else if (setId.startsWith('sm')) {
+          series = 'sm';
+        } else if (setId.startsWith('xy')) {
+          series = 'xy';
+        } else {
+          series = setId.replace(/\d+$/, '');
+        }
         return `https://assets.tcgdex.net/fr/${series}/${setId}/${numOnly}/low.png`;
       }
     }

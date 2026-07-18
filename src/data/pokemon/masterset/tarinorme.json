@@ -1,10 +1,10 @@
 [
   {
     "nom": "Tarinorme",
-    "numero": "024/100",
-    "set": "Diamant & Perle - Tempête",
+    "numero": "038/088",
+    "set": "Équilibre Parfait",
     "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/024.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/38.jpg?class=hd",
     "rarete": "Rare",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -14,49 +14,22 @@
   },
   {
     "nom": "Tarinorme",
-    "numero": "020/095",
-    "set": "Appel des Légendes",
+    "numero": "096/088",
+    "set": "Équilibre Parfait",
     "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/020.png",
-    "rarete": "Rare",
-    "variantes": ["normale", "reverse"],
+    "image": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/96.jpg?class=hd",
+    "rarete": "Secrète",
+    "variantes": ["holo"],
     "possede": {
-      "normale": false,
-      "reverse": false
+      "holo": false
     }
   },
   {
     "nom": "Tarinorme",
-    "numero": "082/124",
-    "set": "Noir & Blanc - Dragons Exaltés",
+    "numero": "098/182",
+    "set": "Rivalités Destinées",
     "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/082.png",
-    "rarete": "Rare",
-    "variantes": ["normale", "reverse"],
-    "possede": {
-      "normale": false,
-      "reverse": false
-    }
-  },
-  {
-    "nom": "Tarinorme",
-    "numero": "069/119",
-    "set": "XY - Vigueur Spectrale",
-    "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/069.png",
-    "rarete": "Rare",
-    "variantes": ["normale", "reverse"],
-    "possede": {
-      "normale": false,
-      "reverse": false
-    }
-  },
-  {
-    "nom": "Tarinorme",
-    "numero": "092/147",
-    "set": "Soleil & Lune - Ombres Ardentes",
-    "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/092.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/DRI/FR/98.jpg?class=hd",
     "rarete": "Peu Commune",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -66,36 +39,10 @@
   },
   {
     "nom": "Tarinorme",
-    "numero": "131/202",
-    "set": "Épée & Bouclier",
+    "numero": "102/167",
+    "set": "Mascarade Crépusculaire",
     "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/131.png",
-    "rarete": "Rare",
-    "variantes": ["normale", "reverse"],
-    "possede": {
-      "normale": false,
-      "reverse": false
-    }
-  },
-  {
-    "nom": "Tarinorme",
-    "numero": "111/196",
-    "set": "Épée & Bouclier - Origine Perdue",
-    "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/111.png",
-    "rarete": "Rare",
-    "variantes": ["normale", "reverse"],
-    "possede": {
-      "normale": false,
-      "reverse": false
-    }
-  },
-  {
-    "nom": "Tarinorme",
-    "numero": "116/193",
-    "set": "Écarlate & Violet - Évolutions à Paldea",
-    "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/116.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/TWM/FR/102.jpg?class=hd",
     "rarete": "Peu Commune",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -105,10 +52,35 @@
   },
   {
     "nom": "Tarinorme",
-    "numero": "112/162",
-    "set": "Écarlate & Violet - Forces Temporelles",
+    "numero": "182/167",
+    "set": "Mascarade Crépusculaire",
     "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/112.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/TWM/FR/182.jpg?class=hd",
+    "rarete": "Illustration rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "146/197",
+    "set": "Flammes Obsidiennes",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/OBF/FR/146.jpg?class=hd",
+    "rarete": "Peu Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "099/172",
+    "set": "Stars Étincelantes",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/BRS/FR/99.jpg?class=hd",
     "rarete": "Rare",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -118,15 +90,143 @@
   },
   {
     "nom": "Tarinorme",
-    "numero": "108/182",
-    "set": "Écarlate & Violet - Faille Paradoxe",
+    "numero": "131/192",
+    "set": "Clash des Rebelles",
     "langue": "FR",
-    "image": "/cards/pokemon/tarinorme/108.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SWSH2/FR/131.jpg?class=hd",
+    "rarete": "Peu Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "141/236",
+    "set": "Éclipse Cosmique",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM12/FR/141.jpg?class=hd",
     "rarete": "Rare",
     "variantes": ["normale", "reverse"],
     "possede": {
       "normale": false,
       "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "86/145",
+    "set": "Gardiens Ascendants",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM02/FR/86.jpg?class=hd",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "55/114",
+    "set": "Offensive Vapeur",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/STS/FR/55.jpg?class=hd",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "95/160",
+    "set": "Primo-Choc",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PRC/FR/95.jpg?class=hd",
+    "rarete": "Peu Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "82/124",
+    "set": "Dragons Exaltés",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/DRX/FR/82.jpg?class=hd",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "7/99",
+    "set": "Platine : Arceus",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/AR/FR/7.jpg?class=hd",
+    "rarete": "Rare Holo",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "60/127",
+    "set": "Platine",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PT/FR/60.jpg?class=hd",
+    "rarete": "Peu Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "13/146",
+    "set": "Diamant & Perle : Eveil des Légendes",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/LA/FR/13.jpg?class=hd",
+    "rarete": "Rare Holo",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Tarinorme G",
+    "numero": "DP43",
+    "set": "Promos Black Star DP",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PRDP/FR/43.jpg?class=hd",
+    "rarete": "Promo",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Tarinorme",
+    "numero": "4/17",
+    "set": "POP 8",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/POP8/FR/4.jpg?class=hd",
+    "rarete": "Rare",
+    "variantes": ["normale"],
+    "possede": {
+      "normale": false
     }
   }
 ]

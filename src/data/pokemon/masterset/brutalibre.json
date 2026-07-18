@@ -1,10 +1,10 @@
 [
   {
     "nom": "Brutalibré",
-    "numero": "063/111",
-    "set": "XY - Poing Furieux",
+    "numero": "046/088",
+    "set": "Équilibre Parfait",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/063.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/POR/FR/46.jpg?class=hd",
     "rarete": "Rare",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -13,12 +13,36 @@
     }
   },
   {
-    "nom": "Brutalibré EX",
-    "numero": "064/111",
-    "set": "XY - Poing Furieux",
+    "nom": "Méga-Brutalibré ex",
+    "numero": "116/217",
+    "set": "Héros Transcendants",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/064.png",
-    "rarete": "EX",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/116.jpg?class=hd",
+    "rarete": "ex",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Méga-Brutalibré ex",
+    "numero": "268/217",
+    "set": "Héros Transcendants",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/268.jpg?class=hd",
+    "rarete": "Ultra Rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Méga-Brutalibré ex",
+    "numero": "283/217",
+    "set": "Héros Transcendants",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/283.jpg?class=hd",
+    "rarete": "Ultra Rare",
     "variantes": ["holo"],
     "possede": {
       "holo": false
@@ -26,10 +50,10 @@
   },
   {
     "nom": "Brutalibré",
-    "numero": "097/114",
-    "set": "XY - Offensive Vapeur",
+    "numero": "089/131",
+    "set": "Évolutions Prismatiques",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/097.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PRE/FR/89.jpg?class=hd",
     "rarete": "Rare",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -39,10 +63,10 @@
   },
   {
     "nom": "Brutalibré",
-    "numero": "110/181",
-    "set": "Soleil & Lune - Duo de Choc",
+    "numero": "107/167",
+    "set": "Mascarade Crépusculaire",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/110.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/TWM/FR/107.jpg?class=hd",
     "rarete": "Commune",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -52,10 +76,126 @@
   },
   {
     "nom": "Brutalibré",
-    "numero": "105/185",
-    "set": "Épée & Bouclier - Voltage Éclatant",
+    "numero": "175/091",
+    "set": "Destinées de Paldea",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/105.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PAF/FR/175.jpg?class=hd",
+    "rarete": "Illustration rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "118/198",
+    "set": "Écarlate et Violet",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SVI/FR/118.jpg?class=hd",
+    "rarete": "Holo Rare",
+    "variantes": ["normale", "holo", "reverse"],
+    "possede": {
+      "normale": false,
+      "holo": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "007",
+    "set": "Promos Écarlate et Violet",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SVP/FR/7.jpg?class=hd",
+    "rarete": "Promo",
+    "variantes": ["commune", "staff"],
+    "possede": {
+      "commune": false,
+      "staff": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "098/195",
+    "set": "Tempête Argentée",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SIT/FR/98.jpg?class=hd",
+    "rarete": "Rare",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré Radieux",
+    "numero": "081/189",
+    "set": "Astres Radieux",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/ASR/FR/81.jpg?class=hd",
+    "rarete": "Radiant Rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "127/172",
+    "set": "Stars Étincelantes",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/BRS/FR/127.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "216/264",
+    "set": "Poing de Fusion",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/FST/FR/216.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "148/192",
+    "set": "Clash des Rebelles",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SWSH2/FR/148.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "70/131",
+    "set": "Lumière Interdite",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM06/FR/70.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "97/114",
+    "set": "Offensive Vapeur",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/STS/FR/97.jpg?class=hd",
     "rarete": "Rare",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -65,10 +205,36 @@
   },
   {
     "nom": "Brutalibré",
-    "numero": "116/198",
-    "set": "Épée & Bouclier - Règne de Glace",
+    "numero": "48/124",
+    "set": "Impact des Destins",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/116.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/FAC/FR/48.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "87/162",
+    "set": "Impulsion Turbo",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/BKT/FR/87.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Brutalibré",
+    "numero": "39/108",
+    "set": "Ciel Rugissant",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/ROS/FR/39.jpg?class=hd",
     "rarete": "Peu Commune",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -78,10 +244,10 @@
   },
   {
     "nom": "Brutalibré",
-    "numero": "125/198",
-    "set": "Écarlate & Violet",
+    "numero": "63/111",
+    "set": "Poings Furieux",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/125.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/FFI/FR/63.jpg?class=hd",
     "rarete": "Rare",
     "variantes": ["normale", "reverse"],
     "possede": {
@@ -90,25 +256,24 @@
     }
   },
   {
-    "nom": "Brutalibré",
-    "numero": "071/091",
-    "set": "Écarlate & Violet - Destinées de Paldea",
+    "nom": "Brutalibré-EX",
+    "numero": "64/111",
+    "set": "Poings Furieux",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/071.png",
-    "rarete": "Rare",
-    "variantes": ["normale", "reverse"],
+    "image": "https://pokecardex-scans.b-cdn.net/sets/FFI/FR/64.jpg?class=hd",
+    "rarete": "EX",
+    "variantes": ["holo"],
     "possede": {
-      "normale": false,
-      "reverse": false
+      "holo": false
     }
   },
   {
-    "nom": "Brutalibré (Shiny)",
-    "numero": "192/091",
-    "set": "Écarlate & Violet - Destinées de Paldea",
+    "nom": "Brutalibré Radieux",
+    "numero": "081/189",
+    "set": "Pack Récompense",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/192.png",
-    "rarete": "Illustration rare",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PRZP/FR/291.jpg?class=hd",
+    "rarete": "Radiant Rare",
     "variantes": ["holo"],
     "possede": {
       "holo": false
@@ -116,11 +281,11 @@
   },
   {
     "nom": "Brutalibré",
-    "numero": "116/162",
-    "set": "Écarlate & Violet - Forces Temporelles",
+    "numero": "118/198",
+    "set": "Pack Récompense",
     "langue": "FR",
-    "image": "/cards/pokemon/brutalibre/116_ir.png",
-    "rarete": "Illustration rare",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PRZP/FR/296.jpg?class=hd",
+    "rarete": "Promo",
     "variantes": ["holo"],
     "possede": {
       "holo": false

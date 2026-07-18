@@ -7,10 +7,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/001/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409942
   },
@@ -22,10 +24,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/002/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409945
   },
@@ -52,10 +56,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/004/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409945
   },
@@ -67,10 +73,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/005/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409948
   },
@@ -82,10 +90,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/006/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409951
   },
@@ -97,10 +107,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/007/low.png",
     "rarete": "Rare",
     "variantes": [
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202409946
   },
@@ -112,10 +124,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/008/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409949
   },
@@ -127,10 +141,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/009/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409945
   },
@@ -142,10 +158,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/010/low.png",
     "rarete": "Rare",
     "variantes": [
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202409944
   },
@@ -157,10 +175,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/011/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409946
   },
@@ -172,10 +192,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/012/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409947
   },
@@ -187,12 +209,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/013/low.png",
     "rarete": "Rare",
     "variantes": [
-      "normale",
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "normale": false,
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202409947
   },
@@ -204,10 +226,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/014/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409948
   },
@@ -234,10 +258,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/016/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409947
   },
@@ -249,10 +275,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/017/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409943
   },
@@ -264,10 +292,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/018/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409949
   },
@@ -279,10 +309,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/019/low.png",
     "rarete": "Rare",
     "variantes": [
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202409949
   },
@@ -294,10 +326,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/020/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409950
   },
@@ -309,10 +343,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/021/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409949
   },
@@ -339,10 +375,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/023/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409950
   },
@@ -354,10 +392,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/024/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409951
   },
@@ -369,10 +409,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/025/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409951
   },
@@ -384,10 +426,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/026/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409953
   },
@@ -399,10 +443,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/027/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409948
   },
@@ -414,10 +460,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/028/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409952
   },
@@ -429,10 +477,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/029/low.png",
     "rarete": "Rare",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409953
   },
@@ -444,10 +494,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/030/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202409952
   },
@@ -459,10 +511,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/031/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410067
   },
@@ -474,10 +528,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/032/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410071
   },
@@ -489,10 +545,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/033/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410068
   },
@@ -504,10 +562,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/034/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410072
   },
@@ -534,10 +594,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/036/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410069
   },
@@ -549,10 +611,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/037/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410069
   },
@@ -564,10 +628,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/038/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410068
   },
@@ -579,10 +645,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/039/low.png",
     "rarete": "Rare",
     "variantes": [
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202410071
   },
@@ -594,10 +662,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/040/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410068
   },
@@ -624,10 +694,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/042/low.png",
     "rarete": "Rare",
     "variantes": [
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202410073
   },
@@ -639,10 +711,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/043/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410070
   },
@@ -654,10 +728,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/044/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410068
   },
@@ -669,10 +745,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/045/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410071
   },
@@ -684,10 +762,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/046/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410074
   },
@@ -699,10 +779,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/047/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410070
   },
@@ -729,10 +811,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/049/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410072
   },
@@ -744,10 +828,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/050/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410075
   },
@@ -759,10 +845,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/051/low.png",
     "rarete": "Rare",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410073
   },
@@ -774,10 +862,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/052/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410074
   },
@@ -789,10 +879,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/053/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410075
   },
@@ -804,10 +896,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/054/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410070
   },
@@ -834,10 +928,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/056/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410075
   },
@@ -849,10 +945,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/057/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410073
   },
@@ -864,10 +962,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/058/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410073
   },
@@ -879,10 +979,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/059/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410074
   },
@@ -894,10 +996,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/060/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410071
   },
@@ -909,10 +1013,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/061/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410199
   },
@@ -924,10 +1030,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/062/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410209
   },
@@ -939,10 +1047,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/063/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410206
   },
@@ -984,10 +1094,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/066/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410210
   },
@@ -999,10 +1111,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/067/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410207
   },
@@ -1014,10 +1128,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/068/low.png",
     "rarete": "Rare",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410195
   },
@@ -1029,10 +1145,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/069/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410205
   },
@@ -1044,10 +1162,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/070/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410204
   },
@@ -1059,10 +1179,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/071/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410209
   },
@@ -1074,10 +1196,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/072/low.png",
     "rarete": "Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410194
   },
@@ -1104,10 +1228,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/074/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410203
   },
@@ -1119,10 +1245,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/075/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410196
   },
@@ -1134,10 +1262,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/076/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410206
   },
@@ -1149,10 +1279,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/077/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410212
   },
@@ -1164,10 +1296,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/078/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410214
   },
@@ -1179,10 +1313,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/079/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410209
   },
@@ -1194,10 +1330,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/080/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410214
   },
@@ -1209,10 +1347,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/081/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410200
   },
@@ -1224,10 +1364,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/082/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410196
   },
@@ -1239,10 +1381,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/083/low.png",
     "rarete": "Peu Commune",
     "variantes": [
-      "normale"
+      "normale",
+      "reverse"
     ],
     "possede": {
-      "normale": false
+      "normale": false,
+      "reverse": false
     },
     "createdAt": 1784202410203
   },
@@ -1254,10 +1398,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/084/low.png",
     "rarete": "Rare",
     "variantes": [
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202410208
   },
@@ -1269,10 +1415,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/085/low.png",
     "rarete": "Rare",
     "variantes": [
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202410205
   },
@@ -1284,10 +1432,12 @@
     "image": "https://assets.tcgdex.net/fr/me/me04/086/low.png",
     "rarete": "Rare",
     "variantes": [
-      "holo"
+      "holo",
+      "reverse"
     ],
     "possede": {
-      "holo": false
+      "holo": false,
+      "reverse": false
     },
     "createdAt": 1784202410210
   },

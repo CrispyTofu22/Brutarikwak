@@ -1,10 +1,328 @@
 [
   {
     "nom": "Psykokwak",
-    "numero": "053/102",
-    "set": "Set de Base",
+    "numero": "039/217",
+    "set": "Héros Transcendants",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/053.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/39.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["commune", "reverse", "pokeball"],
+    "possede": {
+      "commune": false,
+      "reverse": false,
+      "pokeball": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "226/217",
+    "set": "Héros Transcendants",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/ASC/FR/226.jpg?class=hd",
+    "rarete": "Illustration rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "007",
+    "set": "Promos Méga-Évolution",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/MEP/FR/7.jpg?class=hd",
+    "rarete": "Promo",
+    "variantes": ["normale"],
+    "possede": {
+      "normale": false
+    }
+  },
+  {
+    "nom": "Psykokwak d'Ondine",
+    "numero": "045/182",
+    "set": "Rivalités Destinées",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/DRI/FR/45.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak d'Ondine",
+    "numero": "193/182",
+    "set": "Rivalités Destinées",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/DRI/FR/193.jpg?class=hd",
+    "rarete": "Illustration rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "054/165",
+    "set": "151",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/MEW/FR/54.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "175/165",
+    "set": "151",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/MEW/FR/175.jpg?class=hd",
+    "rarete": "Illustration rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "028/189",
+    "set": "Astres Radieux",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/ASR/FR/28.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "024/203",
+    "set": "Évolution Céleste",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/EVS/FR/24.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "40/236",
+    "set": "Éclipse Cosmique",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM12/FR/40.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "11/68",
+    "set": "Destinées Occultes",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM115/FR/11.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Ramoloss et Psykokwak-GX",
+    "numero": "35/236",
+    "set": "Harmonie des Esprits",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM11/FR/35.jpg?class=hd",
+    "rarete": "GX",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Ramoloss et Psykokwak-GX",
+    "numero": "217/236",
+    "set": "Harmonie des Esprits",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM11/FR/217.jpg?class=hd",
+    "rarete": "Ultra Rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Ramoloss et Psykokwak-GX",
+    "numero": "218/236",
+    "set": "Harmonie des Esprits",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM11/FR/218.jpg?class=hd",
+    "rarete": "Ultra Rare",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Ramoloss et Psykokwak-GX",
+    "numero": "239/236",
+    "set": "Harmonie des Esprits",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM11/FR/239.jpg?class=hd",
+    "rarete": "Secrète",
+    "variantes": ["holo"],
+    "possede": {
+      "holo": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "26/181",
+    "set": "Duo de Choc",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM09/FR/26.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "28/149",
+    "set": "Soleil et Lune",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SM01/FR/28.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "SM199",
+    "set": "Promos Soleil et Lune",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PRSM/FR/199.jpg?class=hd",
+    "rarete": "Promo",
+    "variantes": ["commune", "tampon"],
+    "possede": {
+      "commune": false,
+      "tampon": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "16/122",
+    "set": "Rupture Turbo",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/BKP/FR/16.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "32/149",
+    "set": "Frontières Franchies",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/BCR/FR/32.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "33/149",
+    "set": "Frontières Franchies",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/BCR/FR/33.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "74/102",
+    "set": "HS : Triomphe",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/TM/FR/74.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "87/127",
+    "set": "Platine",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PT/FR/87.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "100/132",
+    "set": "Diamant & Perle : Merveilles Secrètes",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SW/FR/100.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak δ Espèces Delta",
+    "numero": "81/110",
+    "set": "EX : Fantômes Holon",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/HP/FR/81.jpg?class=hd",
+    "rarete": "Commune",
+    "variantes": ["normale", "reverse"],
+    "possede": {
+      "normale": false,
+      "reverse": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "44/95",
+    "set": "EX : Team Magma VS Team Aqua",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/TMTA/FR/44.jpg?class=hd",
     "rarete": "Commune",
     "variantes": ["normale"],
     "possede": {
@@ -13,10 +331,10 @@
   },
   {
     "nom": "Psykokwak",
-    "numero": "065/082",
-    "set": "Team Rocket",
+    "numero": "73/100",
+    "set": "EX : Tempête de Sable",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/065.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/SS/FR/73.jpg?class=hd",
     "rarete": "Commune",
     "variantes": ["normale"],
     "possede": {
@@ -28,128 +346,100 @@
     "numero": "104/147",
     "set": "Aquapolis",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/104.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/AQ/FR/108.jpg?class=hd",
     "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
+    "variantes": ["normale"],
     "possede": {
-      "normale": false,
-      "reverse": false
+      "normale": false
     }
   },
   {
     "nom": "Psykokwak",
-    "numero": "070/100",
-    "set": "Diamant & Perle - Tempête",
+    "numero": "79/105",
+    "set": "Neo Destiny",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/070.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/N4/FR/79.jpg?class=hd",
     "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
+    "variantes": ["normale"],
     "possede": {
-      "normale": false,
-      "reverse": false
+      "normale": false
     }
   },
   {
     "nom": "Psykokwak",
-    "numero": "032/149",
-    "set": "Noir & Blanc - Frontières Franchies",
+    "numero": "65/82",
+    "set": "Team Rocket",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/032.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/TR/FR/65.jpg?class=hd",
     "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
+    "variantes": ["commune", "edition 1"],
     "possede": {
-      "normale": false,
-      "reverse": false
+      "commune": false,
+      "edition 1": false
     }
   },
   {
     "nom": "Psykokwak",
-    "numero": "028/162",
-    "set": "XY - Impulsion Turbo",
+    "numero": "53/62",
+    "set": "Fossile",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/028.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/FO/FR/53.jpg?class=hd",
     "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
+    "variantes": ["commune", "edition 1"],
     "possede": {
-      "normale": false,
-      "reverse": false
+      "commune": false,
+      "edition 1": false
     }
   },
   {
     "nom": "Psykokwak",
-    "numero": "026/181",
-    "set": "Soleil & Lune - Duo de Choc",
+    "numero": "20/53",
+    "set": "Promo Black Star Wizards Of The Coast",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/026.png",
-    "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PRWC/FR/20.jpg?class=hd",
+    "rarete": "Promo",
+    "variantes": ["normale"],
     "possede": {
-      "normale": false,
-      "reverse": false
+      "normale": false
     }
   },
   {
     "nom": "Psykokwak",
-    "numero": "032/163",
-    "set": "Épée & Bouclier - Styles de Combat",
+    "numero": "7/18",
+    "set": "Détective Pikachu",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/032_swsh.png",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/DPK/FR/7.jpg?class=hd",
     "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
+    "variantes": ["normale", "holo"],
     "possede": {
       "normale": false,
-      "reverse": false
-    }
-  },
-  {
-    "nom": "Psykokwak",
-    "numero": "040/198",
-    "set": "Écarlate & Violet",
-    "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/040.png",
-    "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
-    "possede": {
-      "normale": false,
-      "reverse": false
-    }
-  },
-  {
-    "nom": "Psykokwak",
-    "numero": "054/165",
-    "set": "Écarlate & Violet - 151",
-    "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/054.png",
-    "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
-    "possede": {
-      "normale": false,
-      "reverse": false
-    }
-  },
-  {
-    "nom": "Psykokwak",
-    "numero": "175/165",
-    "set": "Écarlate & Violet - 151",
-    "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/175.png",
-    "rarete": "Illustration rare",
-    "variantes": ["holo"],
-    "possede": {
       "holo": false
     }
   },
   {
     "nom": "Psykokwak",
-    "numero": "043/167",
-    "set": "Écarlate & Violet - Mascarade Crépusculaire",
+    "numero": "039/217",
+    "set": "Pack Récompense",
     "langue": "FR",
-    "image": "/cards/pokemon/psykokwak/043.png",
-    "rarete": "Commune",
-    "variantes": ["normale", "reverse"],
+    "image": "https://pokecardex-scans.b-cdn.net/sets/PRZP/FR/702.jpg?class=hd",
+    "rarete": "Promo",
+    "variantes": ["holo", "non-holo"],
+    "possede": {
+      "holo": false,
+      "non-holo": false
+    }
+  },
+  {
+    "nom": "Psykokwak",
+    "numero": "10/40",
+    "set": "Promo McDonald's 2018",
+    "langue": "FR",
+    "image": "https://pokecardex-scans.b-cdn.net/sets/MC8/FR/10.jpg?class=hd",
+    "rarete": "Promo",
+    "variantes": ["normale", "holo"],
     "possede": {
       "normale": false,
-      "reverse": false
+      "holo": false
     }
   }
 ]

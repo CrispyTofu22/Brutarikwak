@@ -72,11 +72,25 @@ export default function App() {
       const saved = localStorage.getItem('tcg_custom_card_lists');
       if (saved) {
         const parsed = JSON.parse(saved);
-        const merged = { ...ALL_DATA };
-        Object.keys(parsed).forEach((k) => {
-          merged[k as SubCategory] = parsed[k];
+        const merged = { ...ALL_DATA } as Record<SubCategory, Card[]>;
+        
+        Object.keys(ALL_DATA).forEach((key) => {
+          const subCat = key as SubCategory;
+          const defaultCards = ALL_DATA[subCat] || [];
+          const userCards = parsed[subCat] || [];
+          
+          if (userCards.length > 0) {
+            // Identifier les cartes ajoutées ou importées manuellement par l'utilisateur
+            // (qui n'existent pas par combinaison set + numero dans la liste par défaut)
+            const defaultKeys = new Set(defaultCards.map(c => `${c.set}::${c.numero}`.toLowerCase()));
+            const customUserCards = userCards.filter(c => c && c.set && c.numero && !defaultKeys.has(`${c.set}::${c.numero}`.toLowerCase()));
+            
+            // On fusionne : les cartes officielles par défaut (pour avoir toujours les dernières modifs/images) 
+            // et les cartes personnalisées de l'utilisateur
+            merged[subCat] = [...defaultCards, ...customUserCards];
+          }
         });
-        return merged as Record<SubCategory, Card[]>;
+        return merged;
       }
     } catch {
       // ignore
@@ -1331,24 +1345,26 @@ export default function App() {
                   </h2>
                 </div>
 
-                <button
-                  id="btn-toggle-edit-mode"
-                  onClick={() => {
-                    setIsEditMode(!isEditMode);
-                    setShowAddForm(false);
-                    setEditingCardKey(null);
-                  }}
-                  className={`px-3 py-1.5 rounded-lg text-xs font-bold border flex items-center gap-1.5 transition-all active:scale-95 cursor-pointer ${
-                    isEditMode 
-                      ? 'bg-indigo-600 border-indigo-400 text-white shadow-md shadow-indigo-600/20' 
-                      : isLightMode
-                        ? 'bg-zinc-100 border-zinc-300 text-zinc-700 hover:bg-zinc-200'
-                        : 'bg-zinc-900/60 border-zinc-800 text-zinc-400 hover:text-white'
-                  }`}
-                >
-                  <SlidersHorizontal className="w-3.5 h-3.5" />
-                  <span>{isEditMode ? 'Quitter' : 'Gérer'}</span>
-                </button>
+                <div className="flex items-center gap-2">
+                  <button
+                    id="btn-toggle-edit-mode"
+                    onClick={() => {
+                      setIsEditMode(!isEditMode);
+                      setShowAddForm(false);
+                      setEditingCardKey(null);
+                    }}
+                    className={`px-3 py-1.5 rounded-lg text-xs font-bold border flex items-center gap-1.5 transition-all active:scale-95 cursor-pointer ${
+                      isEditMode 
+                        ? 'bg-indigo-600 border-indigo-400 text-white shadow-md shadow-indigo-600/20' 
+                        : isLightMode
+                          ? 'bg-zinc-100 border-zinc-300 text-zinc-700 hover:bg-zinc-200'
+                          : 'bg-zinc-900/60 border-zinc-800 text-zinc-400 hover:text-white'
+                    }`}
+                  >
+                    <SlidersHorizontal className="w-3.5 h-3.5" />
+                    <span>{isEditMode ? 'Quitter' : 'Gérer'}</span>
+                  </button>
+                </div>
               </div>
 
               {/* Section Statistics Panel */}
