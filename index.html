@@ -5,19 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Brutalikwak</title>
     
-    <!-- PWA Manifest -->
-    <link rel="manifest" href="/manifest.json?v=9" />
+    <!-- PWA Manifest without query parameters (important for some mobile devices) -->
+    <link rel="manifest" href="/manifest.json" />
     
-    <!-- Standard Favicons/Icons using local icon-192.png and icon-512.png -->
-    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png?v=9" />
-    <link  rel="icon" type="image/png" sizes="512x512" href="/icon-512.png?v=9" />
+    <!-- Standard Favicons/Icons using clean, local icon-192.png and icon-512.png -->
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/icon-512.png" />
     
-    <!-- iOS / Apple Splash & Icon Settings -->
-    <link rel="apple-touch-icon" href="/icon-192.png?v=9" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/icon-192.png?v=9" />
+    <!-- iOS / Apple Splash & Icon Settings (Using root-relative apple-touch-icon without query string) -->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
     
     <!-- Microsoft Tile Settings -->
-    <meta name="msapplication-TileImage" content="/icon-192.png?v=9" />
+    <meta name="msapplication-TileImage" content="/icon-192.png" />
     <meta name="msapplication-TileColor" content="#0c0c0e" />
     
     <!-- Mobile App Settings -->
@@ -30,13 +30,25 @@
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
     
-    <!-- Service Worker Registration Script -->
+    <!-- Service Worker Registration Script without query params -->
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js?v=9')
+          navigator.serviceWorker.register('/sw.js')
             .then((reg) => {
               console.log('Service Worker registered successfully:', reg.scope);
+              
+              // Standard PWA update trigger: checking if there is a new service worker waiting
+              reg.onupdatefound = () => {
+                const installingWorker = reg.installing;
+                if (installingWorker) {
+                  installingWorker.onstatechange = () => {
+                    if (installingWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                      console.log('New version available, please refresh the page to update.');
+                    }
+                  };
+                }
+              };
             })
             .catch((err) => {
               console.error('Service Worker registration failed:', err);
