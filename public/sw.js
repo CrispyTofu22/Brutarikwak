@@ -1,4 +1,4 @@
-const CACHE_NAME = 'brutalikwak-v11';
+const CACHE_NAME = 'brutalikwak-v13';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
