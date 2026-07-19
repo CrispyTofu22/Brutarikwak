@@ -820,7 +820,7 @@ export default function App() {
             {currentCategory === 'home' ? (
               <div className="flex items-center gap-2">
                 <img 
-                  src="/icon-192.png" 
+                  src="/icon-192.png?v=13" 
                   alt="Brutalikwak Logo" 
                   className="h-8 w-8 object-contain rounded-lg shadow-md shadow-indigo-600/10" 
                   referrerPolicy="no-referrer"
