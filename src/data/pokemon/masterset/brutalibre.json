@@ -55,10 +55,12 @@
     "langue": "FR",
     "image": "https://pokecardex-scans.b-cdn.net/sets/PRE/FR/89.jpg?class=hd",
     "rarete": "Rare",
-    "variantes": ["normale", "reverse"],
+    "variantes": ["normale", "reverse", "pokeball", "masterball"],
     "possede": {
       "normale": false,
-      "reverse": false
+      "reverse": false,
+      "pokeball": false,
+      "masterball": false
     }
   },
   {
@@ -93,11 +95,12 @@
     "langue": "FR",
     "image": "https://pokecardex-scans.b-cdn.net/sets/SVI/FR/118.jpg?class=hd",
     "rarete": "Holo Rare",
-    "variantes": ["normale", "holo", "reverse"],
+    "variantes": ["normale", "holo", "reverse", "pps3-sea"],
     "possede": {
       "normale": false,
       "holo": false,
-      "reverse": false
+      "reverse": false,
+      "pps3-sea": false
     }
   },
   {

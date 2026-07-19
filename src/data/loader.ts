@@ -7,12 +7,20 @@ import chaosAscendant from './pokemon/fullsets/chaos-ascendant.json';
 import fb04 from './dragonball/fb04.json';
 import fb09 from './dragonball/fb09.json';
 
+const mapSpecialSets = (cards: Card[]): Card[] => {
+  return cards.map(c => ({
+    ...c,
+    variantes: ['possedee'],
+    possede: { 'possedee': false }
+  }));
+};
+
 export const ALL_DATA: Record<string, Card[]> = {
   masterset_brutalibre: brutalibre as Card[],
   masterset_tarinorme: tarinorme as Card[],
   masterset_psykokwak: psykokwak as Card[],
-  fullset_heros_transcendants: herosTranscendants as Card[],
-  fullset_chaos_ascendant: chaosAscendant as Card[],
+  fullset_heros_transcendants: mapSpecialSets(herosTranscendants as Card[]),
+  fullset_chaos_ascendant: mapSpecialSets(chaosAscendant as Card[]),
   db_fb04: fb04 as Card[],
   db_fb09: fb09 as Card[]
 };

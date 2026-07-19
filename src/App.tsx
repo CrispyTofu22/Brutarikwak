@@ -106,7 +106,26 @@ export default function App() {
   const [possession, setPossession] = useState<PossessionState>(() => {
     try {
       const saved = localStorage.getItem('tcg_collection_possession');
-      return saved ? JSON.parse(saved) : {};
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        let migrated = false;
+        Object.keys(parsed).forEach((key) => {
+          const parts = key.split('::');
+          if (parts.length === 3) {
+            const [set, numero, variant] = parts;
+            const normSet = set.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+            if ((normSet.includes('heros transcendants') || normSet.includes('chaos ascendant')) && variant !== 'possedee') {
+              if (parsed[key]) {
+                const newKey = `${set}::${numero}::possedee`;
+                parsed[newKey] = true;
+                migrated = true;
+              }
+            }
+          }
+        });
+        return parsed;
+      }
+      return {};
     } catch {
       return {};
     }
@@ -425,7 +444,7 @@ export default function App() {
       setTcgDexSetCards([]);
       setTcgDexAddMethod('tcgdex');
     }
-  }, [currentSubCategory, currentCategory, cardLists]);
+  }, [currentSubCategory, currentCategory]);
 
   // --- Reset Search/Filters when navigating ---
   const navigateToCategory = (cat: Category, subCat: SubCategory) => {
@@ -480,8 +499,20 @@ export default function App() {
     let totalVariants = 0;
     let ownedVariants = 0;
 
+    const isHeros = subCatKey === 'fullset_heros_transcendants';
+    const isChaos = subCatKey === 'fullset_chaos_ascendant';
+
     cards.forEach(card => {
       card.variantes.forEach(variant => {
+        if (isHeros || isChaos) {
+          const match = card.numero.match(/^(\d+)/);
+          if (match) {
+            const num = parseInt(match[1], 10);
+            if (isHeros && num > 217) return;
+            if (isChaos && num > 86) return;
+          }
+        }
+
         totalVariants++;
         const key = `${card.set}::${card.numero}::${variant}`;
         if (possession[key]) {
@@ -490,10 +521,12 @@ export default function App() {
       });
     });
 
+    const finalTotal = isHeros ? 217 : (isChaos ? 86 : totalVariants);
+
     return {
-      total: totalVariants,
+      total: finalTotal,
       owned: ownedVariants,
-      percentage: totalVariants > 0 ? Math.round((ownedVariants / totalVariants) * 100) : 0
+      percentage: finalTotal > 0 ? Math.min(100, Math.round((ownedVariants / finalTotal) * 100)) : 0
     };
   };
 
@@ -585,6 +618,12 @@ export default function App() {
     const index = list.findIndex(c => c.set === originalSet && c.numero === originalNumero);
     if (index === -1) return;
     
+    const normSet = updatedCard.set.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    if (normSet.includes('heros transcendants') || normSet.includes('chaos ascendant')) {
+      updatedCard.variantes = ['possedee'];
+      updatedCard.possede = { 'possedee': false };
+    }
+
     const newList = [...list];
     newList[index] = updatedCard;
     
@@ -634,6 +673,12 @@ export default function App() {
   };
 
   const handleAddCard = (newCard: Card) => {
+    const normSet = newCard.set.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    if (normSet.includes('heros transcendants') || normSet.includes('chaos ascendant')) {
+      newCard.variantes = ['possedee'];
+      newCard.possede = { 'possedee': false };
+    }
+
     const list = cardLists[currentSubCategory] || [];
     const newList = [newCard, ...list];
     
@@ -774,9 +819,12 @@ export default function App() {
           <div className="flex items-center justify-between">
             {currentCategory === 'home' ? (
               <div className="flex items-center gap-2">
-                <div className="h-8 w-8 rounded-lg bg-gradient-to-tr from-indigo-600 to-indigo-400 flex items-center justify-center shadow-md shadow-indigo-600/10 text-white">
-                  <PokeballIcon className="w-5 h-5" />
-                </div>
+                <img 
+                  src="/icon-192.png" 
+                  alt="Brutalikwak Logo" 
+                  className="h-8 w-8 object-contain rounded-lg shadow-md shadow-indigo-600/10" 
+                  referrerPolicy="no-referrer"
+                />
                 <div>
                   <h1 className={`font-display font-bold text-base tracking-tight transition-colors duration-300 ${
                     isLightMode ? 'text-zinc-900' : 'text-white'

@@ -607,9 +607,12 @@ export const TCGCard: React.FC<TCGCardProps> = ({
   }
 
   const displayVariantName = (v: string) => {
-    const normalized = v.toLowerCase();
+    const normalized = v.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
     if (normalized === 'normale' || normalized === 'normal') {
       return 'Commune';
+    }
+    if (normalized === 'possedee') {
+      return 'Possédée';
     }
     return v.charAt(0).toUpperCase() + v.slice(1);
   };
